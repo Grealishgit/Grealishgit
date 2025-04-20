@@ -121,17 +121,15 @@
 </div>
 
 
-## 🏙️ GitHub Skyline 2024
-![GitHub Skyline](https://user-images.githubusercontent.com/your-skyline.gif)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit&theme=radical)](https://wakatime.com/@grealishgit)
-
+## 🏙️ Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
 | 🌐 Frontend     | React, React Native, Tailwind, Bootstrap |
 | 🔧 Backend      | Node.js, Express, NestJS, MongoDB       |
 | 📱 Mobile Dev   | React Native, Expo                      |
 | ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit&theme=radical)](https://wakatime.com/@grealishgit)
 
 ## 🎯 2025 Goals
 
