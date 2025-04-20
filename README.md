@@ -53,11 +53,6 @@
   </tr>
 </table>
 
-#Languages stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&langs_count=8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
