@@ -129,7 +129,6 @@
 | 📱 Mobile Dev   | React Native, Expo                      |
 | ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit&theme=radical)](https://wakatime.com/@grealishgit)
 
 ## 🎯 2025 Goals
 
