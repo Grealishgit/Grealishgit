@@ -108,7 +108,10 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=3&no-frame=true&title=Followers,Stars,Repositories,Fame,Commits,PullRequest,Issues,Contributions" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
