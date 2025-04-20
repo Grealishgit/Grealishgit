@@ -115,15 +115,33 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=9&no-frame=true" />
 </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=child-tracker&theme=radical)](https://github.com/Grealishgit/child-tracker)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&center=true&width=500&height=50)
+## 🏙️ GitHub Skyline 2024
+
+![GitHub Skyline](https://user-images.githubusercontent.com/your-skyline.gif)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit&theme=radical)](https://wakatime.com/@grealishgit)
+
+| Domain         | Tools & Frameworks                      |
+|----------------|-----------------------------------------|
+| 🌐 Frontend     | React, React Native, Tailwind, Bootstrap |
+| 🔧 Backend      | Node.js, Express, NestJS, MongoDB       |
+| 📱 Mobile Dev   | React Native, Expo                      |
+| ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
+
+## 🎯 2025 Goals
+
+- [x] Build and deploy a mobile safety app
+- [x] Learn Compiler Construction
+- [ ] Launch a SaaS side project
+- [ ] Contribute to an open-source project
+<a href="https://linkedin.com/in/you" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="mailto:you@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 
 ## 📝 Latest Blog Posts
 - [5G in Smart Cities – Future Vision](#)
 - [Why Zustand Beats Redux in Small Projects](#)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
