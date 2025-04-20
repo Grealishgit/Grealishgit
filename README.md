@@ -56,10 +56,6 @@
 </table>
 
 
-
-[![Top Repositories](https://api.githubtrends.io/user/svg/Grealishgit/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
