@@ -1,5 +1,8 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
+## 💻Bio
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&center=true&width=500&height=50)
+
 # 💫 About Me:
 ## 👋 Hey there, I'm Eugene
 💻 Full Stack Developer | Passionate about building impactful software
@@ -13,6 +16,8 @@
 🌐 Fun Fact2: I love creating things from scratch—especially UIs!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
+<a href="https://linkedin.com/in/you" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="mailto:you@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 
 ## Skills
 <p align="center">
@@ -115,11 +120,10 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=9&no-frame=true" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&center=true&width=500&height=50)
-## 🏙️ GitHub Skyline 2024
 
+## 🏙️ GitHub Skyline 2024
 ![GitHub Skyline](https://user-images.githubusercontent.com/your-skyline.gif)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit&theme=radical)](https://wakatime.com/@grealishgit)
 
 | Domain         | Tools & Frameworks                      |
@@ -135,8 +139,7 @@
 - [x] Learn Compiler Construction
 - [ ] Launch a SaaS side project
 - [ ] Contribute to an open-source project
-<a href="https://linkedin.com/in/you" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<a href="mailto:you@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+
 
 ## 📝 Latest Blog Posts
 - [5G in Smart Cities – Future Vision](#)
