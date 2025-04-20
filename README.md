@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-![Header](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
+
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 # 💫 About Me:
 🔭 I’m currently working on Id-Look-Up project<br>👯 I’m looking to collaborate on Real estate project<br>🤝 I’m looking for help with lynx<br>🌱 I’m currently learning lynx<br>💬 Ask me about UI/UX design<br>⚡ Fun fact am young
