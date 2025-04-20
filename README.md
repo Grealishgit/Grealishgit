@@ -43,8 +43,9 @@
   </tr>
 </table>
 
-[![Top Repos](https://api.githubtrends.io/Grealishgit/svg/Grealishgit/repos)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/Grealishgit/svg/Grealishgit/langs)](https://githubtrends.io)
 
+[![Top Repos](https://api.githubtrends.io/Grealishgit/svg/Grealishgit/repos)](https://githubtrends.io)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
