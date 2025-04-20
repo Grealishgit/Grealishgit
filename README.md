@@ -1,7 +1,7 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 ## 💻Bio
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&left=true&width=500&height=50)
 
 # 💫 About Me:
 ## 👋 Hey there, I'm Eugene
@@ -15,9 +15,18 @@
 ⚡ Fun fact: I’m young and passionate about tech 😄
 🌐 Fun Fact2: I love creating things from scratch—especially UIs!
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
-<a href="https://linkedin.com/in/you" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<a href="mailto:you@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+<p align="center">
+  <a href="https://instagram.com/Wizardhunter1" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/Eugynee" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:eugyneehunter@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
 
 ## Skills
 <p align="center">
