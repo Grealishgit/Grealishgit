@@ -52,11 +52,12 @@
     </td>
   </tr>
 </table>
+
+#Languages stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&langs_count=8)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&layout=donut)](https://github.com/Grealishgit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&layout=donut-vertical)](https://github.com/Grealishgit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grealishgit&layout=pie)](https://github.com/Grealishgit/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
