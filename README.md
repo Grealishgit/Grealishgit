@@ -1,8 +1,13 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 # 💫 About Me:
-🔭 I’m currently working on Id-Look-Up project<br>👯 I’m looking to collaborate on Real estate project<br>🤝 I’m looking for help with lynx<br>🌱 I’m currently learning lynx<br>💬 Ask me about UI/UX design<br>⚡ Fun fact am young
-
+🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system)<br>
+👯 I’m looking to collaborate on a **luxury real estate mobile website** using Lynx<br>
+🤝 I’m looking for help with the **Lynx framework**<br>
+🌱 I’m currently learning **Lynx and Compiler Construction**<br>
+💬 Ask me about **UI/UX design**, **React**, or **Node.js**<br>
+🎓 I’m a **Computer Science student at Machakos University**<br>
+⚡ Fun fact: I’m young and passionate about tech 😄
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
 
