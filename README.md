@@ -29,6 +29,8 @@
 # 📊 GitHub Stats:
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
@@ -46,7 +48,13 @@
       <img src="https://api.githubtrends.io/user/svg/Grealishgit/repos?time_range=one_year&theme=dark" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://api.githubtrends.io/user/svg/Grealishgit/langs?time_range=one_month&compact=True&theme=bright_lights" />
+    </td>
+  </tr>
 </table>
+
 
 
 [![Top Repositories](https://api.githubtrends.io/user/svg/Grealishgit/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
@@ -58,8 +66,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Grealishgit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
