@@ -55,6 +55,7 @@
   </tr>
 </table>
 
+[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=grealishgit)](https://github.com/grealishgit/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
