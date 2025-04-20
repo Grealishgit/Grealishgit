@@ -109,7 +109,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=3&no-frame=true&title=Followers,Stars,Repositories,Fame,Commits,PullRequest,Issues,Contributions" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=3&no-frame=true" />
 </div>
 
 
