@@ -1,13 +1,16 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 # 💫 About Me:
-🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system)<br>
+## 👋 Hey there, I'm Eugene
+💻 Full Stack Developer | Passionate about building impactful software
+🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system),[Child Safety Tracking System](#) <br>
 👯 I’m looking to collaborate on a **luxury real estate mobile website** using Lynx<br>
 🤝 I’m looking for help with the **Lynx framework**<br>
 🌱 I’m currently learning **Lynx and Compiler Construction**<br>
 💬 Ask me about **UI/UX design**, **React**, or **Node.js**<br>
 🎓 I’m a **Computer Science student at Machakos University**<br>
 ⚡ Fun fact: I’m young and passionate about tech 😄
+🌐 Fun Fact2: I love creating things from scratch—especially UIs!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
 
@@ -112,10 +115,23 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=9&no-frame=true" />
 </div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=child-tracker&theme=radical)](https://github.com/Grealishgit/child-tracker)
+
+## 📝 Latest Blog Posts
+- [5G in Smart Cities – Future Vision](#)
+- [Why Zustand Beats Redux in Small Projects](#)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grealishgit)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🧠 Did You Know?
+- 🌍 I’m from Kenya 🇰🇪
+- 🎮 I enjoy FIFA and PES
+- 🧠 I love reverse-engineering UI from real websites
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
