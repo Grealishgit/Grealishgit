@@ -25,7 +25,6 @@
 </p>
 
 # 💻 Tech Stack:
-<div align="center">
 
   <table>
     <tr>
@@ -40,7 +39,9 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></td>
-      <td><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
+    <td colspan="3" align="center">
+        <img src="https://img.shields.io/badge/twilio-F22F46.svg?style=for-the-badge&logo=Twilio&logoColor=white" />
+      </td>
       <td><img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" /></td>
     </tr>
     <tr>
@@ -98,14 +99,9 @@
       <td><img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" /></td>
     </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <img src="https://img.shields.io/badge/twilio-F22F46.svg?style=for-the-badge&logo=Twilio&logoColor=white" />
-      </td>
-    </tr>
   </table>
 
-</div>
+
 
 
 
