@@ -43,6 +43,10 @@
   </tr>
 </table>
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
