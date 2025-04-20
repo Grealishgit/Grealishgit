@@ -4,7 +4,7 @@
 🔭 I’m currently working on Id-Look-Up project<br>👯 I’m looking to collaborate on Real estate project<br>🤝 I’m looking for help with lynx<br>🌱 I’m currently learning lynx<br>💬 Ask me about UI/UX design<br>⚡ Fun fact am young
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Laqshy young) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wizardhunter1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eugynee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugyneehunter@gmail.com) 
 
 <p align="center">
   <a href="https://skillicons.dev">
