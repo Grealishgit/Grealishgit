@@ -6,12 +6,8 @@
 # 💫 About Me:
 ## 👋 Hey there, I'm Eugene
 💻 Full Stack Developer | Passionate about building impactful software
-🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system),[Child Safety Tracking System](#) <br>
-👯 I’m looking to collaborate on a **luxury real estate mobile website** using Lynx<br>
-🤝 I’m looking for help with the **Lynx framework**<br>
-🌱 I’m currently learning **Lynx and Compiler Construction**<br>
+🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system)(#) <br>
 💬 Ask me about **UI/UX design**, **React**, or **Node.js**<br>
-🎓 I’m a **Computer Science student at Machakos University**<br>
 ⚡ Fun fact: I’m young and passionate about tech 😄
 🌐 Fun Fact2: I love creating things from scratch—especially UIs!
 ## 🌐 Socials:
