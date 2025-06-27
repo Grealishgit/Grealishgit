@@ -8,8 +8,8 @@
 💻 Full Stack Developer | Passionate about building impactful software <br>
 🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system)(#) <br>
 💬 Ask me about **UI/UX design**, **React**, or **Node.js**<br>
-⚡ Fun fact: I’m young and passionate about tech 😄
-🌐 Fun Fact2: I love creating things from scratch—especially UIs!
+⚡ Fun fact: I’m young and passionate about tech 😄<br>
+🌐 Fun Fact2: I love creating things from scratch—especially UIs!<br>
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
