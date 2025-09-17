@@ -7,7 +7,7 @@
 ## 👋 Hey there, I'm Eugene
 💻 Full Stack Developer | Passionate about building impactful software <br>
 🔭 I’m currently working on the **ID Look-Up project** (Lost ID search system)(#) <br>
-💬 Ask me about **UI/UX design**, **React**, or **Node.js**<br>
+💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
 ⚡ Fun fact: I’m young and passionate about tech 😄<br>
 🌐 Fun Fact2: I love creating things from scratch—especially UIs!<br>
 ## 🌐 Socials:
@@ -129,7 +129,7 @@
 ## 🏙️ Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
-| 🌐 Frontend     | React, React Native, Tailwind, Bootstrap |
+| 🌐 Frontend     | React, React Native, Tailwind |
 | 🔧 Backend      | Node.js, Express, NestJS, MongoDB       |
 | 📱 Mobile Dev   | React Native, Expo                      |
 | ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
@@ -143,10 +143,6 @@
 - [ ] Contribute to an open-source project
 
 
-## 📝 Latest Blog Posts
-- [5G in Smart Cities – Future Vision](#)
-- [Why Zustand Beats Redux in Small Projects](#)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -154,7 +150,7 @@
 ## 🧠 Did You Know?
 - 🌍 I’m from Kenya 🇰🇪
 - 🎮 I enjoy FIFA and PES
-- 🧠 I love reverse-engineering UI from real websites
+- 🧠 I support Manchester United👌
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
