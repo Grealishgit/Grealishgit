@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&left=true&width=500&height=50)
 
 # 💫 About Me:
-## 👋 Hey there, I'm Eugene
+## 👋 Hey there, I'm Eugene,
 💻 Full Stack Developer | Passionate about building impactful software <br>
 🔭 I’m currently working on the **A couple of PHP related projects**  <br>
 💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
