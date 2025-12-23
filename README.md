@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 ## 👋 Hey there, I'm Eugene,
-💻 Full Stack Developer | Passionate about building impactful software <br>
+💻 FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
 🔭 I’m currently working on the **A couple of PHP related projects**  <br>
 💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
 ⚡ Fun fact: I’m young and passionate about tech 😄<br>
