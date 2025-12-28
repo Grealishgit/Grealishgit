@@ -6,7 +6,7 @@
 # 💫 About Me:
 ## 👋 Hey there, I'm Eugene,
 💻 FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
-🔭 I’m currently working on the **A couple of PHP related projects**  <br>
+🔭 I’m currently working on the **A couple of projects including an expense application**  <br>
 💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
 ⚡ Fun fact: I’m young and passionate about tech 😄<br>
 🌐 Fun Fact2: I started coding as a joke😂!<br>
