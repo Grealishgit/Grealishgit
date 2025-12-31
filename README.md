@@ -8,8 +8,8 @@
 💻 FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
 🔭 I’m currently working on the **A couple of projects including an expense application**  <br>
 💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
-⚡ Fun fact: I’m young and passionate about tech 😄<br>
-🌐 Fun Fact2: I started coding as a joke😂!<br>
+⚡ Fun fact: Tech evolves at the speed of code execution 😄<br>
+🌐 Fun Fact2: Errors in code are brought by programmers themselves not the code!😂!<br>
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
