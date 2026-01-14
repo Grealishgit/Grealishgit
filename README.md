@@ -138,9 +138,9 @@
 
 ## 🎯 2025 Goals
 
-- [x] Build and deploy a mobile safety app
-- [x] Learn Compiler Construction
-- [ ] Launch a SaaS side project
+- [✓] Build and deploy a mobile safety app
+- [✔] Learn Compiler Construction
+- [✓] Launch a SaaS side project
 - [ ] Contribute to an open-source project
 
 
