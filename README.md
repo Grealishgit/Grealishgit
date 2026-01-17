@@ -121,7 +121,7 @@
 </table>
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=9&no-frame=true" />
 </div>
@@ -136,12 +136,19 @@
 | ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
 
 
-## 🎯 2025 Goals
+##  2026 Goals
+
+- [ ] Learn Golang
+- [ ] Build CribFinder
+- [ ] Master Frontend Completely
+- [ ] Learn on how to use AWS, Panels & Digital Ocean
+
+##  2025 Goals
 
 - [✓] Build and deploy a mobile safety app
 - [✔] Learn Compiler Construction
 - [✓] Launch a SaaS side project
-- [ ] Contribute to an open-source project
+- [✔] Contribute to an open-source project
 
 
 
