@@ -1,16 +1,16 @@
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
-## 💻Bio
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+👋;Full-stack+Developer;Loves+React+Native+🚀;Building+cool+things+with+JS&left=true&width=500&height=50)
+## Bio
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
 
-# 💫 About Me:
-## 👋 Hey there, I'm Eugene,
-💻 FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
-🔭 I’m currently working on the **A couple of projects including an expense application**  <br>
-💬 Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
-⚡ Fun fact: Tech evolves at the speed of code execution 😄<br>
-🌐 Fun Fact2: Errors in code are brought by programmers themselves not the code!😂!<br>
-## 🌐 Socials:
+#  About Me:
+##  Hey there, I'm Eugene,
+ FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
+ I’m currently working on the **A couple of projects including an expense application**  <br>
+ Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
+ Fun fact: Tech evolves at the speed of code execution <br>
+ Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
+##  Socials:
 <p align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+# Tech Stack:
 
   <table>
     <tr>
@@ -99,7 +99,7 @@
     </tr>
   </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
@@ -127,13 +127,13 @@
 </div>
 
 
-## 🏙️ Tools and Frameworks I Use
+## Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
-| 🌐 Frontend     | React, React Native, Tailwind |
-| 🔧 Backend      | Node.js, Express, NestJS, MongoDB       |
-| 📱 Mobile Dev   | React Native, Expo                      |
-| ⚙️ DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
+| Frontend     | React, React Native, Tailwind |
+| Backend      | Node.js, Express, NestJS, MongoDB       |
+| Mobile Dev   | React Native, Expo                      |
+| DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
 
 
 ##  2026 Goals
@@ -146,19 +146,19 @@
 ##  2025 Goals
 
 - [✓] Build and deploy a mobile safety app
-- [✔] Learn Compiler Construction
+- [✓] Learn Compiler Construction
 - [✓] Launch a SaaS side project
-- [✔] Contribute to an open-source project
+- [✓] Contribute to an open-source project
 
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🧠 Did You Know?
-- 🌍 I’m from Kenya 🇰🇪
-- 🎮 I enjoy FIFA and PES
-- 🧠 I support Manchester United👌
+##  Did You Know?
+-  I’m from Kenya 🇰🇪
+- I enjoy FIFA and PES
+-  I support Manchester United
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
