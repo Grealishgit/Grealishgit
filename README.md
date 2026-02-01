@@ -5,7 +5,7 @@
 
 #  About Me:
 ##  Hey there, I'm Eugene | Hunterdev,
- FrontEnd Developer with some knowledge in Backend Tecnologies | Passionate about building impactful software <br>
+ FrontEnd Developer with  knowledge in Backend Technologies | Passionate about building impactful software <br>
  I’m currently working on the **A couple of projects including an expense application**  <br>
  Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
  Fun fact: Tech evolves at the speed of code execution <br>
