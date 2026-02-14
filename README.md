@@ -5,7 +5,7 @@
 
 #  About Me:
 ##  Hey there, I'm Eugene | Hunterdev,
- FrontEnd Developer with  knowledge in Backend Technologies | Passionate about building impactful software <br>
+ Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software <br>
  I’m currently working on the **A couple of projects including an expense application**  <br>
  Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
  Fun fact: Tech evolves at the speed of code execution <br>
@@ -156,7 +156,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##  Did You Know?
--  I’m from Kenya 🇰🇪
 - I enjoy FIFA and PES
 -  I support Manchester United
 
