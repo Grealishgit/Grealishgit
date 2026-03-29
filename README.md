@@ -140,8 +140,9 @@
 
 - [ ] Learn Golang
 - [ ] Build CribFinder
-- [ ] Master Frontend Completely
-- [ ] Learn on how to use AWS, Panels & Digital Ocean
+- [ ] Master Frontend Advanced Tweaks
+- [ ] Learn on how to configure AWS, Panels & Digital Ocean
+- [✓] Install a personal home-mini server
 
 ##  2025 Goals
 
