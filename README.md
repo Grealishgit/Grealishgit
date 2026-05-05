@@ -130,16 +130,16 @@
 ## Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
-| Frontend     | React, React Native, Tailwind |
-| Backend      | Node.js, Express, NestJS, MongoDB       |
-| Mobile Dev   | React Native, Expo                      |
-| DevOps       | Git, GitHub, Nginx, Vercel, Netlify     |
+| Frontend     | React, React Native, Tailwind CSS |
+| Backend      | Node.js, Express, MongoDB       |
+| Mobile Dev   | React Native, Expo, NativeWind                      |
+| DevOps       | Git, GitHub, Nginx, Vercel, Netlify, Oracle, AWS    |
 
 
 ##  2026 Goals
 
 - [ ] Learn Golang
-- [ ] Build CribFinder
+- [✓] Build CribFinder
 - [ ] Master Frontend Advanced Tweaks
 - [ ] Learn on how to configure AWS, Panels & Digital Ocean
 - [✓] Install a personal home-mini server
@@ -163,4 +163,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
