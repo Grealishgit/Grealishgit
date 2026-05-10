@@ -138,7 +138,7 @@
 
 ##  2026 Goals
 
-- [ ] Learn Golang
+- [ ] Learn Golang - In progress
 - [✓] Build CribFinder
 - [ ] Master Frontend Advanced Tweaks
 - [ ] Learn on how to configure AWS, Panels & Digital Ocean
