@@ -11,7 +11,7 @@
  Fun fact: Tech evolves at the speed of code execution <br>
  Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
 ##  Socials:
-<p align="center">
+<div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
   </a>
@@ -22,7 +22,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35819">
-</p>
+ <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
+</div>
+</div>
 
 
 ## Skills
@@ -98,6 +101,13 @@
         <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></td>
     </tr>
   </table>
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## GitHub Stats
 
