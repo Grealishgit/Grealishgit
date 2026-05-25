@@ -118,6 +118,22 @@
       <img src="https://api.githubtrends.io/user/svg/Grealishgit/repos?time_range=one_year&theme=dark" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grealishgit&show_icons=true&locale=en&layout=compact" alt="grealishgit" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=grealishgit&show_icons=true&locale=en" alt="grealishgit" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=grealishgit&" alt="grealishgit" />
+    </td>
+    <td>
+      <!-- Empty cell for balance, or you can add another stat here -->
+    </td>
+  </tr>
 </table>
 
 
