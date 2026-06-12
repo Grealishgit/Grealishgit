@@ -10,7 +10,7 @@
  Fun fact: Tech evolves at the speed of code execution <br>
  Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
 
-###  Open to freelance / collaboration opportunities 🚀
+###  Open to freelance / collaboration opportunities 
 
 ##  Socials:
 <div align="center">
@@ -132,10 +132,10 @@ Replace OWNER/REPO with your actual repo paths
 </p>
 
 ##  Homelab / Self-Hosting
-- 🖥️ Self-hosted Ubuntu VPS ("hantarserver") running portfolio backend, Django apps, Redis, MongoDB, and monitoring
-- ☁️ Secondary Azure VPS for redundancy/contingency
-- 🔐 Cloudflare Tunnels + Tailscale for secure remote access
-- 📊 Datadog monitoring across personal infrastructure
+- Self-hosted Ubuntu VPS ("hantarserver") running portfolio backend, Django apps, Redis, MongoDB, and monitoring
+- Secondary Azure VPS for redundancy/contingency
+- Cloudflare Tunnels + Tailscale for secure remote access
+- Datadog monitoring across personal infrastructure
 
   <div align="center">
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/stats-output/stats.svg" height="150" alt="stats graph"  />
