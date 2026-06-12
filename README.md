@@ -1,4 +1,3 @@
-
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 ## Bio
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
@@ -10,6 +9,9 @@
  Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
  Fun fact: Tech evolves at the speed of code execution <br>
  Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
+
+###  Open to freelance / collaboration opportunities 🚀
+
 ##  Socials:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
@@ -27,6 +29,12 @@
 </div>
 </div>
 
+##  WakaTime Weekly Stats
+<!--START_SECTION:waka-->
+```text
+Add your WakaTime badge/embed here once configured (https://github.com/athul/waka-readme)
+```
+<!--END_SECTION:waka-->
 
 ## Skills
 <p align="center">
@@ -102,6 +110,33 @@
     </tr>
   </table>
 
+##  Currently Exploring
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,aws,docker,digitalocean" />
+  </a>
+</p>
+
+##  Featured Projects
+
+<!--
+Replace OWNER/REPO with your actual repo paths
+-->
+<p align="center">
+  <a href="https://github.com/Grealishgit/CribFinder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=CribFinder&theme=dark" />
+  </a>
+  <a href="https://github.com/Grealishgit/expense-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=expense-app&theme=dark" />
+  </a>
+</p>
+
+##  Homelab / Self-Hosting
+- 🖥️ Self-hosted Ubuntu VPS ("hantarserver") running portfolio backend, Django apps, Redis, MongoDB, and monitoring
+- ☁️ Secondary Azure VPS for redundancy/contingency
+- 🔐 Cloudflare Tunnels + Tailscale for secure remote access
+- 📊 Datadog monitoring across personal infrastructure
+
   <div align="center">
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -123,6 +158,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grealishgit&theme=dark" alt="grealishgit" />
 </p>
 
+##  Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grealishgit&theme=react-dark" />
+</p>
+
+##  Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/output/github-contribution-grid-snake.svg" />
+</p>
+<!-- To enable: set up https://github.com/Platane/snk via GitHub Actions -->
 
 ##  GitHub Trophies
 <div align="center">
@@ -164,6 +209,12 @@
 -  I support Manchester United
 -  Am a self-taught guy!
 
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/grealishgit" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Grealishgit&icon=0&color=0)](https://visitcount.itsvg.in)
-
