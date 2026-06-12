@@ -119,7 +119,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=grealishgit&show_icons=true&locale=en&theme=dark" alt="grealishgit" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grealishgit&theme=dark" alt="grealishgit" />
 </p>
 
