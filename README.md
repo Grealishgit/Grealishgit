@@ -123,7 +123,7 @@ Add your WakaTime badge/embed here once configured (https://github.com/athul/wak
 Replace OWNER/REPO with your actual repo paths
 -->
 <p align="center">
-  <a href="https://github.com/Grealishgit/CribFinder">
+  <a href="https://github.com/Grealishgit/E-learning-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=CribFinder&theme=dark" />
   </a>
   <a href="https://github.com/Grealishgit/expense-app">
