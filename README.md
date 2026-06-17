@@ -133,8 +133,8 @@ Replace OWNER/REPO with your actual repo paths
   <a href="https://github.com/Grealishgit/E-learning-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=E-learning-Website&theme=dark" />
   </a>
-  <a href="https://github.com/Grealishgit/expense-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=expense-app&theme=dark" />
+  <a href="https://github.com/Grealishgit/Grealishgit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=Grealishgit&theme=dark" />
   </a>
 </p>
 
