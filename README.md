@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
 
 #  About Me:
-- Hey there, I'm Eugene | Hantardev, Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software <br>
+- Hey there, I'm Eugene | Hantardev, Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the pgap between ethusiasim and realism towards problem solving. <br>
  I’m currently working on the **A couple of projects including an expense application**  <br>
  Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
  Fun fact: Tech evolves at the speed of code execution <br>
@@ -30,8 +30,7 @@
 
 ##  WakaTime Weekly Stats
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@Hunterdev/bbc4adba-ff33-42f8-b938-80f67bcfd637.svg"></embed></figure>
-
+[![wakatime](https://wakatime.com/badge/user/ce3b3a42-0f93-4af6-b051-60cf05395d09/project/adf3333b-bee6-45b5-97c8-2b9ac982c78e.svg)]
 <!--END_SECTION:waka-->
 
 ## Skills
