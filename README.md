@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
 
 #  About Me:
-##  Hey there, I'm Eugene | Hunterdev,
+##  Hey there, I'm Eugene | Hantardev,
  Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software <br>
  I’m currently working on the **A couple of projects including an expense application**  <br>
  Ask me about **UI/UX design**, **React**,**React-Native** or **Node.js**<br>
