@@ -22,16 +22,20 @@
   <a href="mailto:eugyneehunter@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35819">
+
+<!---Add anything here---->
  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
-</div>
+  
 </div>
 
-##  WakaTime Weekly Stats
-<!--START_SECTION:waka-->
+</div>
+
+##  WakaTime Stats | CodeTime Stats | Visitors 
 [![wakatime](https://wakatime.com/badge/user/ce3b3a42-0f93-4af6-b051-60cf05395d09/project/adf3333b-bee6-45b5-97c8-2b9ac982c78e.svg)]
-<!--END_SECTION:waka-->
+
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35819">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
 
 ## Skills
 <p align="center">
