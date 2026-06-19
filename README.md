@@ -2,7 +2,7 @@
 ## Bio
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
 
-##  Who Am I?:
+##  Who Am I?
 - Hey there, I'm Eugene | Hantardev, Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the pgap between ethusiasim and realism towards problem solving. <br>
 
  I’m currently working on the **A couple of projects including an Tickon**  <br>
@@ -177,10 +177,6 @@ Replace OWNER/REPO with your actual repo paths
 <!-- To enable: set up https://github.com/Platane/snk via GitHub Actions -->
 
 ##  GitHub Trophies
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Grealishgit&theme=darkhub&column=9&no-frame=true" />
-</div>
-
 
 ## Tools and Frameworks I Use
 | Domain         | Tools & Frameworks                      |
@@ -206,14 +202,12 @@ Replace OWNER/REPO with your actual repo paths
 - [✓] Launch a SaaS side project
 - [✓] Contribute to an open-source project
 
-
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##  Did You Know?
-- I enjoy FIFA and PES
--  I support Manchester United
+- I enjoy Euro Truck
+- Manchester United Fan
 -  Am a self-taught guy!
 
 ## ☕ Support Me
