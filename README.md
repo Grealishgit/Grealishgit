@@ -10,8 +10,7 @@
  - Fun fact: Tech evolves at the speed of code execution <br>
  - Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
 
-###  Open to freelance | collaboration opportunities 
-
+##  Open to freelance | collaboration opportunities 
 ###  Socials:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
