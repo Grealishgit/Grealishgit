@@ -5,10 +5,10 @@
 ##  Who Am I?
  `Hey there, I'm Eugene | Hantardev, Front-End Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the pgap between ethusiasim and realism towards problem solving`. <br>
 
- -I’m currently working on the **A couple of projects including an Tickon**  <br>
- -Ask me about **Agentic AI**, **React**,**React-Native** or **Node.js**<br>
- -Fun fact: Tech evolves at the speed of code execution <br>
- -Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
+ - I’m currently working on the **A couple of projects including an Tickon**  <br>
+ - Ask me about **Agentic AI**, **React**,**React-Native** or **Node.js**<br>
+ - Fun fact: Tech evolves at the speed of code execution <br>
+ - Fun Fact2: Errors in code are brought by programmers themselves not the code!!<br>
 
 ##  Open to freelance / collaboration opportunities 
 
