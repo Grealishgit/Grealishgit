@@ -183,7 +183,7 @@ Replace OWNER/REPO with your actual repo paths
 | Frontend     | React, React Native, Tailwind CSS |
 | Backend      | Node.js, Express, MongoDB       |
 | Mobile Dev   | React Native, Expo, NativeWind                      |
-| DevOps       | Git, GitHub, Nginx, Vercel, Netlify, Oracle, AWS    |
+| DevOps       | Git, GitHub, Nginx, Vercel, Netlify, Oracle, AWS, CI/CD Pipeline    |
 
 
 ##  2026 Goals
