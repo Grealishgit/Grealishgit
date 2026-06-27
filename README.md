@@ -205,7 +205,8 @@ Replace OWNER/REPO with your actual repo paths
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##  Did You Know?
-- I enjoy Euro Truck
+- I enjoy playing Euro Truck
+- Awaiting GTA VI release
 - Manchester United Fan
 -  Am a self-taught guy!
 
