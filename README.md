@@ -137,8 +137,8 @@ Replace OWNER/REPO with your actual repo paths
   </a>
 </p>
 
-##  Homelab / Self-Hosting
-- Self-hosted Ubuntu VPS ("hantarserver") running portfolio backend, Django apps, Redis, MongoDB, and monitoring
+##  Homelab | Server-Self-Hosting
+- Self-hosted Ubuntu VPS, running portfolio backend, Django apps, Redis, MongoDB, and monitoring
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - Datadog monitoring across personal infrastructure
