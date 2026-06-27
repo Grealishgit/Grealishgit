@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/1135abb7-13a2-45d9-917b-02147868bc46)
 ## Bio
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer|Mobile-Application-Developer;Loves+React+Native+;Building+cool+things+with+JS&left=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer|Mobile-App-Developer;Stronghold+in+React+Native+;Building+impactful+softwares+with+JS&left=true&width=500&height=50)
 
 ##  Who Am I?
  `Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving`. <br>
