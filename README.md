@@ -143,10 +143,10 @@ Replace OWNER/REPO with your actual repo paths
 - Cloudflare Tunnels + Tailscale for secure remote access
 - Datadog monitoring across personal infrastructure
 
-  <div align="center">
+<!--  <div align="center">
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
