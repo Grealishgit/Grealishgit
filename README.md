@@ -5,8 +5,8 @@
 ##  Background Overview
  `Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving`. <br>
 
- - I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
- - Ask me about **Agentic AI**, **React**,**React-Native** or **Node.js**<br>
+ -> I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
+ -> Ask me about *DevOps*. **Agentic AI**, **React**,**React-Native** or **Node.js**<br>
 
 ##  Open to freelance | collaboration opportunities 
 ###  Socials:
