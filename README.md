@@ -9,7 +9,7 @@
  -> Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
 
 ##  Open to freelance | collaboration opportunities 
-###  Socials:
+###  Grab My Socials:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
@@ -20,7 +20,7 @@
   <a href="mailto:eugyneehunter@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-
+ 
 <!---Add anything here---->
  <div align="center">
   
