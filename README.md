@@ -8,7 +8,6 @@
  -> I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
  -> Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
 
-##  Open to freelance | collaboration opportunities 
 ###  Grab My Socials:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
