@@ -19,7 +19,8 @@
 - [9router](https://9router.hanta.indevs.in) - Agentic management service
 - [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
 - [dockge](https://dockge.hanta.indevs.in) - Docker container manager
-- [docspell](https://docspell .hanta.indevs.in) - Document manager
+- [docspell](https://docspell.hanta.indevs.in) - Document manager
+- [file-browser](https://file-browser.hanta.indevs.in) - Open Source File manager
   
 
 ###  Grab My Socials:
