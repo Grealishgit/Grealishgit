@@ -11,6 +11,9 @@
    <a href='https://portfolio.hantardev.tech'>Portfolio</a>
    and check some of my Mobile application builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
+ -> Also worth a short of checking are my self hosted services listed here:
+   <li href='https://portfolio.hantardev.tech'>Service 1</li>
+   <li href='https://updates.hantardev.tech'>Service 2</li>
 
 ###  Grab My Socials:
 <div align="center">
