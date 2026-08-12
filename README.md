@@ -57,7 +57,6 @@
 </p>
 
 # Tech Stack:
-
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
@@ -117,7 +116,7 @@
     </tr>
   </table>
 
-##  Currently Exploring
+##  Currently Exploring;
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,aws,docker,digitalocean" />
