@@ -13,10 +13,8 @@
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
  -> Also worth a short of checking are my self hosted services listed here:
- <div>
-   <a href='https://n8n.hanta.indev.in'>n8n</a>
-   <a href='https://uptime.hanta.indevs.in'>uptime-kuma</a>
- </div>
+- [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
+- [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
   
 
 ###  Grab My Socials:
