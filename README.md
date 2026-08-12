@@ -5,19 +5,18 @@
 ##  Overview
  `Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving`. <br>
 
- -> I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
- -> Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
- -> Checkout some of my published sites here:
+ > I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
+ > Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
+ > Checkout some of my published sites here:
    <a href='https://portfolio.hantardev.tech'>Portfolio</a>
    and check some of my Mobile application builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
- -> Also worth a short of checking are my self hosted services listed here:
+ > Also worth a short of checking are my self hosted services listed here:
 - [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
 - [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
 - [2fa](https://2fa.hanta.indevs.in) - Auth service
 - [9router](https://9router.hanta.indevs.in) - Agentic management service
-  
   
 
 ###  Grab My Socials:
