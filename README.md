@@ -15,12 +15,14 @@
  > Also worth a short of checking are my self hosted services listed here:
 1. [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
 2. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
-- [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
-- [9router](https://9router.hanta.indevs.in) - Agentic management service
-- [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
-- [dockge](https://dockge.hanta.indevs.in) - Docker container manager
-- [docspell](https://docspell.hanta.indevs.in) - Document manager
-- [file-browser](https://file-browser.hanta.indevs.in) - Open Source File manager
+3. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
+4. [9router](https://9router.hanta.indevs.in) - Agentic management service
+5. [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
+6. [dockge](https://dockge.hanta.indevs.in) - Docker container manager
+7. [docspell](https://docspell.hanta.indevs.in) - Document manager
+8. [file-browser](https://file-browser.hanta.indevs.in) - Open Source File manager
+
+   `Need of testing, request credentials through my email, i will be glad to provide.`
   
 
 ###  Grab My Socials:
