@@ -13,8 +13,8 @@
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
  > Also worth a short of checking are my self hosted services listed here:
-- [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
-- [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
+1. [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
+2. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
 - [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
 - [9router](https://9router.hanta.indevs.in) - Agentic management service
 - [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
