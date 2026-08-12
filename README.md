@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer+|+Mobile-App+Developer;Knowledge+in+React+Native+with+Expo+;Building+impactful+softwares+with+JS&left=true&width=500&height=50)
 
 ##  Overview
- `Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving`. <br>
+ > Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving. <br>
 
  > I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
  > Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
