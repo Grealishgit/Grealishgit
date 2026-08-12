@@ -12,8 +12,8 @@
    and check some of my Mobile application builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
  -> Also worth a short of checking are my self hosted services listed here:
-   <li href='https://portfolio.hantardev.tech'>Service 1</li>
-   <li href='https://updates.hantardev.tech'>Service 2</li>
+   <li href='https://portfolio.hantardev.tech'><a>n8n</a></li>
+   <li href='https://updates.hantardev.tech'><a>uptime-kuma</a></li>
 
 ###  Grab My Socials:
 <div align="center">
