@@ -20,7 +20,9 @@
 5. [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
 6. [dockge](https://dockge.hanta.indevs.in) - Docker container manager
 7. [docspell](https://docspell.hanta.indevs.in) - Document manager
-8. [file-browser](https://file-browser.hanta.indevs.in) - Open Source File manager
+8. [file-browser](https://file-browser.hanta.indevs.in) - Web-based file manager for server directories
+9. [hermes](https://hermes.hanta.indevs.in) - Agentic AI dashboard (requires sign-in)
+10. [immich](https://immich.hanta.indevs.in) - Self-hosted photo and video backup solution
 
    `Need of testing, request credentials through my email, i will be glad to provide.`
   
