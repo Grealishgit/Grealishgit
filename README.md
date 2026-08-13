@@ -23,9 +23,11 @@
 8. [file-browser](https://file-browser.hanta.indevs.in) - Web-based file manager for server directories
 9. [hermes](https://hermes.hanta.indevs.in) - Agentic AI dashboard (requires sign-in)
 10. [immich](https://immich.hanta.indevs.in) - Self-hosted photo and video backup solution
-11. [infisical](https://infisical.hanta.indevs.in) - Secret management and sync platform (unreachable)
-12. [jellyfin](https://jellyfin.hanta.indevs.in) - Open-source media streaming server (unreachable)
-13. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI (currently showing startup error)
+11. [infisical](https://infisical.hanta.indevs.in) - Secret management and sync platform
+12. [jellyfin](https://jellyfin.hanta.indevs.in) - Open-source media streaming server
+13. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI 
+14. [oracle server monitoring](https://oracle.hanta.indevs.in) - Server Monitoring And  control UI
+15. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
 
    `Need of testing, request credentials through my email, i will be glad to provide.`
   
