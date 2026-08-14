@@ -28,6 +28,9 @@
 13. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI 
 14. [oracle server monitoring](https://oracle.hanta.indevs.in) - Server Monitoring And  control UI
 15. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
+16. [openclaw](https://openclaw.hanta.indevs.in) - Agentic dashboard
+17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
+
 
    `Need of testing, request credentials through my email, i will be glad to provide.`
   
