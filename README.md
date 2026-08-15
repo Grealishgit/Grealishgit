@@ -160,8 +160,9 @@ Replace OWNER/REPO with your actual repo paths
   </a>
 </p>
 
-##  Homelab | Server-Self-Hosting
+##  Homelab (paused) | Server-Self-Hosting (in-progress)
 - Self-hosted Ubuntu VPS, running portfolio backend, Django apps, Redis, MongoDB, and monitoring
+- PM2 Services
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - Datadog monitoring across personal infrastructure
