@@ -12,7 +12,7 @@
    and check some of my Mobile application builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
- > Also worth a short of checking are my self hosted services listed here:
+ > Also worth a shot of checking are my self hosted services listed here:
 1. [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
 2. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
 3. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
@@ -32,7 +32,7 @@
 17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
 
 
-   `Need of testing, request credentials through my email, i will be glad to provide.`
+   `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
   
 
 ###  Grab My Socials:
