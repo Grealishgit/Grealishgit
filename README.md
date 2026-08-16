@@ -7,7 +7,7 @@
 
  > I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
  > Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
- > Checkout some of my published sites here:
+ > Checkout some my published sites here:
    <a href='https://portfolio.hantardev.tech'>Portfolio</a>
    and check some of my Mobile application builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
