@@ -9,7 +9,7 @@
  > Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
  > Checkout some my published sites here:
    <a href='https://portfolio.hantardev.tech'>Portfolio</a>
-   and check some of my Mobile application builds here:
+   and check some of my Mobile applications builds here:
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
  > Also worth a shot of checking are my self hosted services listed here:
@@ -34,7 +34,6 @@
 
    `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
   
-
 ###  Grab My Socials:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
