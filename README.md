@@ -145,7 +145,7 @@
   </a>
 </p>
 
-##  Featured Projects
+## Top Featured Projects
 
 <!--
 Replace OWNER/REPO with your actual repo paths
