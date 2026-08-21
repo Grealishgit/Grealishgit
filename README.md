@@ -200,7 +200,7 @@ Replace OWNER/REPO with your actual repo paths
 
 ##  GitHub Trophies
 
-## Tools and Frameworks I Use
+## Tools and Frameworks
 | Domain         | Tools & Frameworks                      |
 |----------------|-----------------------------------------|
 | Frontend     | React, React Native, Tailwind CSS |
