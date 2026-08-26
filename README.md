@@ -30,6 +30,7 @@
 15. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
 16. [openclaw](https://openclaw.hanta.indevs.in) - Agentic dashboard
 17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
+18. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
 
 
    `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
