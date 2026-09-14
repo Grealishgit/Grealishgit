@@ -4,6 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Eugene+;Full-stack+Developer+|+Mobile-App+Developer;Knowledge+in+React+Native+with+Expo+;Building+impactful+softwares+with+JS&left=true&width=500&height=50)
 
 ##  Overview
+
  > Hey there, I'm Eugene, Front-End Developer | Mobile App Developer with  knowledge in Backend Technologies | Passionate about building impactful software that bridge the gap between ethusiasim and realism towards problem solving. <br>
 
  > I’m currently working on the **A couple of projects including an Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
@@ -14,6 +15,7 @@
    <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
  > Also worth a shot of checking are my self hosted services listed here:
+
 1. [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
 2. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
 3. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
@@ -32,7 +34,6 @@
 16. [openclaw](https://openclaw.hanta.indevs.in) - Agentic dashboard
 17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
 18. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
-
 
    `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
   
