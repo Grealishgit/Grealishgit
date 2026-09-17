@@ -234,7 +234,7 @@ Replace OWNER/REPO with your actual repo paths
 - I enjoy playing Euro Truck Simulator
 - Awaiting GTA VI release
 - Manchester United Fan
--  Am a self-taught guy!😂
+-  Am a learned guy!😂
 
 ## ☕ Support Me
 <p align="center">
