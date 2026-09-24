@@ -168,6 +168,7 @@ Replace OWNER/REPO with your actual repo paths
 - AI Agents
    - Claude
    - Codex
+   - Cursor (agent)
    - Copilot
    - Agy
    - Gemini
