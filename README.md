@@ -165,6 +165,22 @@ Replace OWNER/REPO with your actual repo paths
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting
 - Self-hosted Ubuntu VPS, running portfolio backend, Django apps, Redis, MongoDB, and monitoring
 - PM2 Services
+- AI Agents
+   - Claude
+   - Codex
+   - Copilot
+   - Agy
+   - Gemini
+   - Pool
+   - Kimi
+   - Kiro
+   - Qwen
+   - Opencode
+   - Openclaw
+   - Hermes Agent
+   - Pi
+   - Vibe
+   - Crush
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - Datadog monitoring across personal infrastructure
