@@ -35,6 +35,7 @@
 17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
 18. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
 19. [noco](https://noco.hanta.indevs.in) - Data Visualizer for Databases
+20. [beszel](https://beszel.hanta.indevs.in) - Server Monitoring Web App
 
    `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
   
