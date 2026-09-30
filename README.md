@@ -39,7 +39,7 @@
 
    `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
   
-###  Grab My Socials:
+###  Grab My Socials Here:
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
