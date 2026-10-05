@@ -53,9 +53,7 @@
  
 <!---Add anything here---->
  <div align="center">
-  
 </div>
-
 </div>
 
 ##  WakaTime Stats | CodeTime Stats | Visitors 
@@ -63,14 +61,14 @@
 <div align="center">
 
    [![wakatime](https://wakatime.com/badge/user/ce3b3a42-0f93-4af6-b051-60cf05395d09/project/adf3333b-bee6-45b5-97c8-2b9ac982c78e.svg)]
- 
+   
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35819">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
 
 </div>
 
-## Top Skills
+## My Top Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,heroku,js,mongodb,nextjs,nodejs" />
