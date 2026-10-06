@@ -37,7 +37,7 @@
 19. [noco](https://noco.hanta.indevs.in) - Data Visualizer for Databases
 20. [beszel](https://beszel.hanta.indevs.in) - Server Monitoring Web App
 
-   `Need of testing, exploring or using any of the above services, request credentials through my email, i will be glad to provide.`
+   `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
   
 ###  Grab My Socials Here:
 <div align="center">
