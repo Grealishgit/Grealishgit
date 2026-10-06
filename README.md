@@ -141,7 +141,7 @@
     </tr>
   </table>
 
-##  Currently Exploring;
+## Currently Exploring;
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,aws,docker,digitalocean" />
@@ -180,7 +180,7 @@
    - Crush
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
-- #Datadog monitoring across personal infrastructure
+- ## Datadog monitoring across personal infrastructure
 
 <!--  <div align="center">
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/stats-output/stats.svg" height="150" alt="stats graph"  />
