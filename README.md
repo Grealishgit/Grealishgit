@@ -160,8 +160,7 @@
 </p>
 
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting
-- Self-hosted Ubuntu VPS, running portfolio backend, Django apps, Redis, MongoDB, and monitoring
-- PM2 Services
+- Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
 - AI Agents
    - Claude
    - Codex
