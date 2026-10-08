@@ -65,7 +65,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
 
-</div>w
+</div>
 
 ## My Top Skills
 <p align="center">
@@ -160,7 +160,7 @@
 
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting
 - Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
-- AI Agents
+- AI Agents in Operation
    - Claude
    - Codex
    - Cursor (agent)
