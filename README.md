@@ -16,26 +16,25 @@
    
  > Also worth a shot of checking are my self hosted services listed here:
 
-1. [n8n](https://n8n.hanta.indev.in) - Workflow automation tool
-2. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
-3. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
-4. [9router](https://9router.hanta.indevs.in) - Agentic management service
-5. [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
-6. [dockge](https://dockge.hanta.indevs.in) - Docker container manager
-7. [docspell](https://docspell.hanta.indevs.in) - Document manager
-8. [file-browser](https://file-browser.hanta.indevs.in) - Web-based file manager for server directories
-9. [hermes](https://hermes.hanta.indevs.in) - Agentic AI dashboard (requires sign-in)
-10. [immich](https://immich.hanta.indevs.in) - Self-hosted photo and video backup solution
-11. [infisical](https://infisical.hanta.indevs.in) - Secret management and sync platform
-12. [jellyfin](https://jellyfin.hanta.indevs.in) - Open-source media streaming server
-13. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI 
-14. [oracle server monitoring](https://oracle.hanta.indevs.in) - Server Monitoring And  control UI
-15. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
-16. [openclaw](https://openclaw.hanta.indevs.in) - Agentic dashboard
-17. [vault](https://vault.hanta.indevs.in) - Secret and password manager
-18. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
-19. [noco](https://noco.hanta.indevs.in) - Data Visualizer for Databases
-20. [beszel](https://beszel.hanta.indevs.in) - Server Monitoring Web App
+1. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
+2. [9router](https://9router.hanta.indevs.in) - Agentic management service
+3. [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
+4. [beszel](https://beszel.hanta.indevs.in) - Server Monitoring Web App
+5. [dockge](https://dockge.hanta.indevs.in) - Docker container manager
+6. [docspell](https://docspell.hanta.indevs.in) - Document manager
+7. [file-browser](https://file-browser.hanta.indevs.in) - Web-based file manager for server directories
+8. [hermes](https://hermes.hanta.indevs.in) - Agentic AI dashboard (requires sign-in)
+9. [immich](https://immich.hanta.indevs.in) - Self-hosted photo and video backup solution
+10. [infisical](https://infisical.hanta.indevs.in) - Secret management and sync platform
+11. [jellyfin](https://jellyfin.hanta.indevs.in) - Open-source media streaming server
+12. [n8n](https://n8n.hanta.indevs.in) - Workflow automation tool
+13. [noco](https://noco.hanta.indevs.in) - Data Visualizer for Databases
+14. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
+15. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI
+16. [oracle server monitoring](https://oracle.hanta.indevs.in) - Server Monitoring And control UI
+17. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
+18. [vault](https://vault.hanta.indevs.in) - Secret and password manager
+19. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
 
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
   
