@@ -52,7 +52,7 @@
  
 <!---Add anything here---->
  <div align="center">
-</div>
+  </div>
 </div>
 
 ##  WakaTime Stats | CodeTime Stats | Visitors 
@@ -65,7 +65,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
 
-</div>
+</div>w
 
 ## My Top Skills
 <p align="center">
@@ -148,7 +148,7 @@
 </p>
 
 ## Top Featured Projects
-<!-- -->
+
 <p align="center">
   <a href="https://github.com/Grealishgit/E-learning-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Grealishgit&repo=E-learning-Website&theme=dark" />
