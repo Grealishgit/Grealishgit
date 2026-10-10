@@ -58,7 +58,7 @@
   </div>
 </div>
 
-##  WakaTime Stats | CodeTime Stats | Visitors 
+###  WakaTime Stats | CodeTime Stats | Visitors 
 
 <div align="center">
 
