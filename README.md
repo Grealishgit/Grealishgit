@@ -8,6 +8,7 @@
  > Hey there, I'm Eugene, a Front-End and Mobile App Developer with hands-on backend experience. I'm driven by a passion for building software that turns big ideas into practical solutions that actually make a difference. <br>
 
  > I’m currently working on **A couple of projects including Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
+ 
  > Ask me about *DevOps*. *Agentic AI*, *React*,*React-Native* or *Node.js*<br>
  > Checkout some my published sites here:
    <a href='https://portfolio.hantardev.tech'>Portfolio</a>
@@ -37,6 +38,7 @@
 19. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
 20.  [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
 
+`Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
   
 ###  Grab My Socials Here:
