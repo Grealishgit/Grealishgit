@@ -37,6 +37,7 @@
 18. [vault](https://vault.hanta.indevs.in) - Secret and password manager
 19. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
 20.  [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
+21.  [downtify](https://downtify.hanta.indevs.in) - Music media just like Spotify
 
 `Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
