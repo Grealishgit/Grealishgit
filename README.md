@@ -39,7 +39,8 @@
 20.  [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
 21.  [downtify](https://downtify.hanta.indevs.in) - Music media just like Spotify
 22.  [nightingale](https://n9e.hanta.indevs.in) - Metrics monitoring tool
-22.  [databasement](https://databasement.hanta.indevs.in) - Database Backup Tool
+23.  [databasement](https://databasement.hanta.indevs.in) - Database Backup Tool
+24.  [traefik](https://traefik.hanta.indevs.in) - Web Traffic like nginx or caddy
 
 `Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
