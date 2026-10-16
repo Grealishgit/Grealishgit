@@ -169,7 +169,7 @@
 
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting
 - Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
-- AI Agents in Operation
+- AI Agents in Operation (Independent).
    - Claude
    - Codex
    - Cursor (agent)
