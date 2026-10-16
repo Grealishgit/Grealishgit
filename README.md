@@ -194,6 +194,8 @@
    - fcc-cline
    - fcc-hermes
    - fcc-grok
+   - fcc-muse
+   - fcc-aider
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - ## Datadog monitoring across personal infrastructure
