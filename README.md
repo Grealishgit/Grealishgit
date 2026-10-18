@@ -36,14 +36,14 @@
 17. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
 18. [vault](https://vault.hanta.indevs.in) - Secret and password manager
 19. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
-20.  [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
-21.  [downtify](https://downtify.hanta.indevs.in) - Music media just like Spotify
-22.  [nightingale](https://n9e.hanta.indevs.in) - Metrics monitoring tool
-23.  [databasement](https://databasement.hanta.indevs.in) - Database Backup Tool
-24.  [traefik](https://traefik.hanta.indevs.in) - Web Traffic like nginx or caddy
-25.  [certmate](https://certmate.hanta.indevs.in) - SSL Certificate manager
-26.   [ntopng](https://ntopng.hanta.indevs.in) - Network analysis and monitoring
-27.   [glances](https://glances.hanta.indevs.in) - Monitoring and UI preview for Docker and more
+20. [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
+21. [downtify](https://downtify.hanta.indevs.in) - Music media just like Spotify
+22. [nightingale](https://n9e.hanta.indevs.in) - Metrics monitoring tool
+23. [databasement](https://databasement.hanta.indevs.in) - Database Backup Tool
+24. [traefik](https://traefik.hanta.indevs.in) - Web Traffic like nginx or caddy
+25. [certmate](https://certmate.hanta.indevs.in) - SSL Certificate manager
+26. [ntopng](https://ntopng.hanta.indevs.in) - Network analysis and monitoring
+27. [glances](https://glances.hanta.indevs.in) - Monitoring and UI preview for Docker and more
 
 `Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
