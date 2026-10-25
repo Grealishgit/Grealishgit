@@ -228,13 +228,13 @@
   <img src="" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grealishgit&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grealishgit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grealishgit&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Github Activity Graph](https://vercel.app)](https://github.com/Grealishgit/github-readme-activity-graph)
 
-##  Contribution Snake
-<p align="center">
+<!---Contribution Snake---->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Grealishgit/Grealishgit/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 <!-- To enable: set up https://github.com/Platane/snk via GitHub Actions -->
 
 ##  GitHub Trophies
