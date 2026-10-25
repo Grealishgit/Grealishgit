@@ -226,9 +226,10 @@
 ##  Contribution Activity Graph
 <p align="center">
   <img src="" />
- [![Github Activity Graph](https://vercel.app)](https://github.com/Grealishgit/github-readme-activity-graph)
-
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grealishgit&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://vercel.app)](https://github.com/Grealishgit/github-readme-activity-graph)
 
 ##  Contribution Snake
 <p align="center">
