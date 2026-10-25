@@ -225,7 +225,9 @@
 
 ##  Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grealishgit&theme=react-dark" />
+  <img src="" />
+ [![Github Activity Graph](https://vercel.app)](https://github.com/Grealishgit/github-readme-activity-graph)
+
 </p>
 
 ##  Contribution Snake
