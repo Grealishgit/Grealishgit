@@ -27,7 +27,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://2fa.hanta.indevs.in">
-        <img src="https://www.eff.org/files/2016/12/08/2fa-1.png" width="80" height="68" alt="2FA"><br>
+        <img src="https://www.eff.org/files/2016/12/08/2fa-1.png" width="120" height="100" alt="2FA"><br>
         <b>2FA</b>
       </a><br>
       <sub>Two-factor authentication service</sub>
@@ -35,7 +35,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://authelia.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn4Ybd5Ytjs8SAIWvh-qMcp9qfO7VR2x3WQRxDGYjFg&s=10"
-         width="80" height="68" alt="Authelia"><br>
+         width="120" height="100" alt="Authelia"><br>
         <b>Authelia</b>
       </a><br>
       <sub>Open-source authentication and authorization server</sub>
@@ -43,7 +43,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://vault.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Gz_zryjZJocG-pNGQzML4dIdA549lpnMFxMhTT_mw&s=10" 
-         width="80" height="68" alt="Vault"><br>
+         width="20" height="100" alt="Vault"><br>
         <b>Vault</b>
       </a><br>
       <sub>Secret and password manager</sub>
