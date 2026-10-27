@@ -78,14 +78,15 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://beszel.hanta.indevs.in">
-        <img src="icons/beszel.png" width="64" height="64" alt="Beszel"><br>
+        <img src="https://beszel.dev/image/social.png" width="100%" height="100%" alt="Beszel"><br>
         <b>Beszel</b>
       </a><br>
       <sub>Server monitoring web app</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://oracle.hanta.indevs.in">
-        <img src="icons/oracle.png" width="64" height="64" alt="Oracle server monitoring"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rOQ-vD3KaD6GNvLemJfEjYH1-Poo6s4WuXmIiPVTAT_4LrWkEgml_15H&s=10"
+         width="100%" height="100%" alt="Oracle server monitoring"><br>
         <b>Oracle server monitoring</b>
       </a><br>
       <sub>Server monitoring and control UI</sub>
