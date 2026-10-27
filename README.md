@@ -43,14 +43,14 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://vault.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Gz_zryjZJocG-pNGQzML4dIdA549lpnMFxMhTT_mw&s=10" 
-         width="100%" height="80%" alt="Vault"><br>
+         width="100%" height="70%" alt="Vault"><br>
         <b>Vault</b>
       </a><br>
       <sub>Secret and password manager</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://infisical.hanta.indevs.in">
-        <img src="[icons/infisical.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUywUhQSFNNA3jAV_GU9bvz1yJSCH1OgBaD-37CrNj2g&s=10)" 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUywUhQSFNNA3jAV_GU9bvz1yJSCH1OgBaD-37CrNj2g&s=10" 
          width="100%" height="100%" alt="Infisical"><br>
         <b>Infisical</b>
       </a><br>
