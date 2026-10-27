@@ -17,36 +17,273 @@
    
  > Also worth a shot of checking are my self hosted services listed here:
 
-1. [2fa](https://2fa.hanta.indevs.in) - Two-factor authentication service
-2. [9router](https://9router.hanta.indevs.in) - Agentic management service
-3. [authelia](https://authelia.hanta.indevs.in) - Open-source authentication and authorization server
-4. [beszel](https://beszel.hanta.indevs.in) - Server Monitoring Web App
-5. [dockge](https://dockge.hanta.indevs.in) - Docker container manager
-6. [docspell](https://docspell.hanta.indevs.in) - Document manager
-7. [file-browser](https://file-browser.hanta.indevs.in) - Web-based file manager for server directories
-8. [hermes](https://hermes.hanta.indevs.in) - Agentic AI dashboard (requires sign-in)
-9. [immich](https://immich.hanta.indevs.in) - Self-hosted photo and video backup solution
-10. [infisical](https://infisical.hanta.indevs.in) - Secret management and sync platform
-11. [jellyfin](https://jellyfin.hanta.indevs.in) - Open-source media streaming server
-12. [n8n](https://n8n.hanta.indevs.in) - Workflow automation tool
-13. [noco](https://noco.hanta.indevs.in) - Data Visualizer for Databases
-14. [ntfy](https://ntfy.hanta.indevs.in) - Real Time notifications for both web and Mobile App
-15. [openclaw](https://openclaw.hanta.indevs.in) - Agentic control UI
-16. [oracle server monitoring](https://oracle.hanta.indevs.in) - Server Monitoring And control UI
-17. [Uptime Kuma](https://uptime.hanta.indevs.in) - Self-hosted monitoring & uptime status page
-18. [vault](https://vault.hanta.indevs.in) - Secret and password manager
-19. [webui](https://webui.hanta.indevs.in) - Agentic playground for AI agents
-20. [librenms](https://librenms.hanta.indevs.in) - Network monitoring tool
-21. [downtify](https://downtify.hanta.indevs.in) - Music media just like Spotify
-22. [nightingale](https://n9e.hanta.indevs.in) - Metrics monitoring tool
-23. [databasement](https://databasement.hanta.indevs.in) - Database Backup Tool
-24. [traefik](https://traefik.hanta.indevs.in) - Web Traffic like nginx or caddy
-25. [certmate](https://certmate.hanta.indevs.in) - SSL Certificate manager
-26. [ntopng](https://ntopng.hanta.indevs.in) - Network analysis and monitoring
-27. [glances](https://glances.hanta.indevs.in) - Monitoring and UI preview for Docker and more
-28. [homepage](https://homepage.hanta.indevs.in) - Docker cool UI and monitoring tool
-29. [qrcode](https://qrcode.hanta.indevs.in) - Simple QR code generator
-30. [shlink](https://shlink.hanta.indevs.in) - Link shortener with link click track enabled
+# Self-hosted services
+
+My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the service.
+
+## Security
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://2fa.hanta.indevs.in">
+        <img src="icons/2fa.png" width="64" height="64" alt="2FA"><br>
+        <b>2FA</b>
+      </a><br>
+      <sub>Two-factor authentication service</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://authelia.hanta.indevs.in">
+        <img src="icons/authelia.png" width="64" height="64" alt="Authelia"><br>
+        <b>Authelia</b>
+      </a><br>
+      <sub>Open-source authentication and authorization server</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://vault.hanta.indevs.in">
+        <img src="icons/vault.png" width="64" height="64" alt="Vault"><br>
+        <b>Vault</b>
+      </a><br>
+      <sub>Secret and password manager</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://infisical.hanta.indevs.in">
+        <img src="icons/infisical.png" width="64" height="64" alt="Infisical"><br>
+        <b>Infisical</b>
+      </a><br>
+      <sub>Secret management and sync platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://certmate.hanta.indevs.in">
+        <img src="icons/certmate.png" width="64" height="64" alt="CertMate"><br>
+        <b>CertMate</b>
+      </a><br>
+      <sub>SSL certificate manager</sub>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+## Monitoring
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://beszel.hanta.indevs.in">
+        <img src="icons/beszel.png" width="64" height="64" alt="Beszel"><br>
+        <b>Beszel</b>
+      </a><br>
+      <sub>Server monitoring web app</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://oracle.hanta.indevs.in">
+        <img src="icons/oracle.png" width="64" height="64" alt="Oracle server monitoring"><br>
+        <b>Oracle server monitoring</b>
+      </a><br>
+      <sub>Server monitoring and control UI</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://uptime.hanta.indevs.in">
+        <img src="icons/uptime.png" width="64" height="64" alt="Uptime Kuma"><br>
+        <b>Uptime Kuma</b>
+      </a><br>
+      <sub>Self-hosted monitoring and uptime status page</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://librenms.hanta.indevs.in">
+        <img src="icons/librenms.png" width="64" height="64" alt="LibreNMS"><br>
+        <b>LibreNMS</b>
+      </a><br>
+      <sub>Network monitoring tool</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://n9e.hanta.indevs.in">
+        <img src="icons/n9e.png" width="64" height="64" alt="Nightingale"><br>
+        <b>Nightingale</b>
+      </a><br>
+      <sub>Metrics monitoring tool</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://glances.hanta.indevs.in">
+        <img src="icons/glances.png" width="64" height="64" alt="Glances"><br>
+        <b>Glances</b>
+      </a><br>
+      <sub>Monitoring and UI preview for Docker and more</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://homepage.hanta.indevs.in">
+        <img src="icons/homepage.png" width="64" height="64" alt="Homepage"><br>
+        <b>Homepage</b>
+      </a><br>
+      <sub>Docker dashboard and monitoring tool</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://ntopng.hanta.indevs.in">
+        <img src="icons/ntopng.png" width="64" height="64" alt="ntopng"><br>
+        <b>ntopng</b>
+      </a><br>
+      <sub>Network analysis and monitoring</sub>
+    </td>
+  </tr>
+</table>
+
+## AI & agents
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://9router.hanta.indevs.in">
+        <img src="icons/9router.png" width="64" height="64" alt="9router"><br>
+        <b>9router</b>
+      </a><br>
+      <sub>Agentic management service</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://hermes.hanta.indevs.in">
+        <img src="icons/hermes.png" width="64" height="64" alt="Hermes"><br>
+        <b>Hermes</b>
+      </a><br>
+      <sub>Agentic AI dashboard (requires sign-in)</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://openclaw.hanta.indevs.in">
+        <img src="icons/openclaw.png" width="64" height="64" alt="OpenClaw"><br>
+        <b>OpenClaw</b>
+      </a><br>
+      <sub>Agentic control UI</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://webui.hanta.indevs.in">
+        <img src="icons/webui.png" width="64" height="64" alt="WebUI"><br>
+        <b>WebUI</b>
+      </a><br>
+      <sub>Agentic playground for AI agents</sub>
+    </td>
+  </tr>
+</table>
+
+## Infrastructure
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://dockge.hanta.indevs.in">
+        <img src="icons/dockge.png" width="64" height="64" alt="Dockge"><br>
+        <b>Dockge</b>
+      </a><br>
+      <sub>Docker container manager</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://traefik.hanta.indevs.in">
+        <img src="icons/traefik.png" width="64" height="64" alt="Traefik"><br>
+        <b>Traefik</b>
+      </a><br>
+      <sub>Web traffic routing, like nginx or Caddy</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://databasement.hanta.indevs.in">
+        <img src="icons/databasement.png" width="64" height="64" alt="Databasement"><br>
+        <b>Databasement</b>
+      </a><br>
+      <sub>Database backup tool</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://noco.hanta.indevs.in">
+        <img src="icons/noco.png" width="64" height="64" alt="NocoDB"><br>
+        <b>NocoDB</b>
+      </a><br>
+      <sub>Data visualizer for databases</sub>
+    </td>
+  </tr>
+</table>
+
+## Media & files
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://immich.hanta.indevs.in">
+        <img src="icons/immich.png" width="64" height="64" alt="Immich"><br>
+        <b>Immich</b>
+      </a><br>
+      <sub>Self-hosted photo and video backup</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://jellyfin.hanta.indevs.in">
+        <img src="icons/jellyfin.png" width="64" height="64" alt="Jellyfin"><br>
+        <b>Jellyfin</b>
+      </a><br>
+      <sub>Open-source media streaming server</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://downtify.hanta.indevs.in">
+        <img src="icons/downtify.png" width="64" height="64" alt="Downtify"><br>
+        <b>Downtify</b>
+      </a><br>
+      <sub>Music media, like Spotify</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://docspell.hanta.indevs.in">
+        <img src="icons/docspell.png" width="64" height="64" alt="Docspell"><br>
+        <b>Docspell</b>
+      </a><br>
+      <sub>Document manager</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://file-browser.hanta.indevs.in">
+        <img src="icons/file-browser.png" width="64" height="64" alt="File Browser"><br>
+        <b>File Browser</b>
+      </a><br>
+      <sub>Web-based file manager for server directories</sub>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+## Tools & automation
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://n8n.hanta.indevs.in">
+        <img src="icons/n8n.png" width="64" height="64" alt="n8n"><br>
+        <b>n8n</b>
+      </a><br>
+      <sub>Workflow automation tool</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://ntfy.hanta.indevs.in">
+        <img src="icons/ntfy.png" width="64" height="64" alt="ntfy"><br>
+        <b>ntfy</b>
+      </a><br>
+      <sub>Real-time notifications for web and mobile</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://qrcode.hanta.indevs.in">
+        <img src="icons/qrcode.png" width="64" height="64" alt="QR code"><br>
+        <b>QR code</b>
+      </a><br>
+      <sub>Simple QR code generator</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://shlink.hanta.indevs.in">
+        <img src="icons/shlink.png" width="64" height="64" alt="Shlink"><br>
+        <b>Shlink</b>
+      </a><br>
+      <sub>Link shortener with click tracking</sub>
+    </td>
+  </tr>
+</table>
 
 `Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
