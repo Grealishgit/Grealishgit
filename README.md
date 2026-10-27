@@ -93,14 +93,15 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://uptime.hanta.indevs.in">
-        <img src="icons/uptime.png" width="64" height="64" alt="Uptime Kuma"><br>
+        <img src="https://greysonlopez.com/wp-content/uploads/2022/05/68747470733a2f2f757074696d652e6b756d612e7065742f696d672f6461726b2e6a7067.jpeg"
+         width="100%" height="100%" alt="Uptime Kuma"><br>
         <b>Uptime Kuma</b>
       </a><br>
       <sub>Self-hosted monitoring and uptime status page</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://librenms.hanta.indevs.in">
-        <img src="icons/librenms.png" width="64" height="64" alt="LibreNMS"><br>
+        <img src="https://www.librenms.org/images/screenshots/screenshot_port_bits.png" width="100%" height="100%" alt="LibreNMS"><br>
         <b>LibreNMS</b>
       </a><br>
       <sub>Network monitoring tool</sub>
