@@ -25,14 +25,14 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <a href="https://2fa.hanta.indevs.in">
         <img src="https://www.eff.org/files/2016/12/08/2fa-1.png" width="100%" height="100%" alt="2FA"><br>
         <b>2FA</b>
       </a><br>
       <sub>Two-factor authentication service</sub>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <a href="https://authelia.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn4Ybd5Ytjs8SAIWvh-qMcp9qfO7VR2x3WQRxDGYjFg&s=10"
          width="100%" height="100%" alt="Authelia"><br>
@@ -40,7 +40,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
       </a><br>
       <sub>Open-source authentication and authorization server</sub>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <a href="https://vault.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Gz_zryjZJocG-pNGQzML4dIdA549lpnMFxMhTT_mw&s=10" 
          width="100%" height="120" alt="Vault"><br>
@@ -48,7 +48,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
       </a><br>
       <sub>Secret and password manager</sub>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <a href="https://infisical.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUywUhQSFNNA3jAV_GU9bvz1yJSCH1OgBaD-37CrNj2g&s=10" 
          width="100%" height="100%" alt="Infisical"><br>
@@ -58,7 +58,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <a href="https://certmate.hanta.indevs.in">
         <img src="https://repository-images.githubusercontent.com/1007555070/b4d34c9f-3f10-43ca-b363-435528fbb279" 
          width="100%" height="100%" alt="CertMate"><br>
@@ -66,9 +66,9 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
       </a><br>
       <sub>SSL certificate manager</sub>
     </td>
-    <td width="25%"></td>
-    <td width="25%"></td>
-    <td width="25%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
 </table>
 
@@ -86,7 +86,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://oracle.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rOQ-vD3KaD6GNvLemJfEjYH1-Poo6s4WuXmIiPVTAT_4LrWkEgml_15H&s=10"
-         width="100%" height="100%" alt="Oracle server monitoring"><br>
+         width="100%" height="120" alt="Oracle server monitoring"><br>
         <b>Oracle server monitoring</b>
       </a><br>
       <sub>Server monitoring and control UI</sub>
@@ -94,14 +94,14 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://uptime.hanta.indevs.in">
         <img src="https://greysonlopez.com/wp-content/uploads/2022/05/68747470733a2f2f757074696d652e6b756d612e7065742f696d672f6461726b2e6a7067.jpeg"
-         width="100%" height="100%" alt="Uptime Kuma"><br>
+         width="100%" height="120" alt="Uptime Kuma"><br>
         <b>Uptime Kuma</b>
       </a><br>
       <sub>Self-hosted monitoring and uptime status page</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://librenms.hanta.indevs.in">
-        <img src="https://www.librenms.org/images/screenshots/screenshot_port_bits.png" width="100%" height="100%" alt="LibreNMS"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s03F6r12oEGIHz1VQE7yO_kJOotppHCaSCCLwTA1oEEzlyU3DH7-ZLY&s=10" width="100%" height="130" alt="LibreNMS"><br>
         <b>LibreNMS</b>
       </a><br>
       <sub>Network monitoring tool</sub>
