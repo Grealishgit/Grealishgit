@@ -101,7 +101,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://librenms.hanta.indevs.in">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s03F6r12oEGIHz1VQE7yO_kJOotppHCaSCCLwTA1oEEzlyU3DH7-ZLY&s=10" width="100%" height="130" alt="LibreNMS"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s03F6r12oEGIHz1VQE7yO_kJOotppHCaSCCLwTA1oEEzlyU3DH7-ZLY&s=10" 
+         width="100%" height="130" alt="LibreNMS"><br>
         <b>LibreNMS</b>
       </a><br>
       <sub>Network monitoring tool</sub>
@@ -110,28 +111,31 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://n9e.hanta.indevs.in">
-        <img src="icons/n9e.png" width="64" height="64" alt="Nightingale"><br>
+        <img src="https://n9e.github.io/img/hero-dashboard-dark.webp" width="100%" height="120" alt="Nightingale"><br>
         <b>Nightingale</b>
       </a><br>
       <sub>Metrics monitoring tool</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://glances.hanta.indevs.in">
-        <img src="icons/glances.png" width="64" height="64" alt="Glances"><br>
+        <img src="https://repository-images.githubusercontent.com/2909429/d6868ba4-1c41-492f-ac56-fff2d211341a" 
+         width="100%" height="120" alt="Glances"><br>
         <b>Glances</b>
       </a><br>
       <sub>Monitoring and UI preview for Docker and more</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://homepage.hanta.indevs.in">
-        <img src="icons/homepage.png" width="64" height="64" alt="Homepage"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMA0GxNwL6Ez5qO7rpz8ObLW7UeZBcHOwk2SqpkeB0uJINp0h01GzOcs&s=10" 
+         width="100%" height="120" alt="Homepage"><br>
         <b>Homepage</b>
       </a><br>
       <sub>Docker dashboard and monitoring tool</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://ntopng.hanta.indevs.in">
-        <img src="icons/ntopng.png" width="64" height="64" alt="ntopng"><br>
+        <img src="https://www.linuxtechmore.com/wp-content/uploads/2025/06/ntopng-application-protocols.webp"
+         width="100%" height="120" alt="ntopng"><br>
         <b>ntopng</b>
       </a><br>
       <sub>Network analysis and monitoring</sub>
