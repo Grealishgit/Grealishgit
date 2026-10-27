@@ -43,7 +43,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://vault.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Gz_zryjZJocG-pNGQzML4dIdA549lpnMFxMhTT_mw&s=10" 
-         width="100%" height="70%" alt="Vault"><br>
+         width="100%" height="120" alt="Vault"><br>
         <b>Vault</b>
       </a><br>
       <sub>Secret and password manager</sub>
