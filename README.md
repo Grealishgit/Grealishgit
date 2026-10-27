@@ -27,7 +27,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://2fa.hanta.indevs.in">
-        <img src="icons/2fa.png" width="64" height="64" alt="2FA"><br>
+        <img src="https://www.eff.org/files/2016/12/08/2fa-1.png" width="64" height="64" alt="2FA"><br>
         <b>2FA</b>
       </a><br>
       <sub>Two-factor authentication service</sub>
