@@ -34,7 +34,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://authelia.hanta.indevs.in">
-        <img src="icons/authelia.png" width="64" height="64" alt="Authelia"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIn4Ybd5Ytjs8SAIWvh-qMcp9qfO7VR2x3WQRxDGYjFg&s=10" width="64" height="64" alt="Authelia"><br>
         <b>Authelia</b>
       </a><br>
       <sub>Open-source authentication and authorization server</sub>
