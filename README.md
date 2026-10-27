@@ -46,6 +46,7 @@
 27. [glances](https://glances.hanta.indevs.in) - Monitoring and UI preview for Docker and more
 28. [homepage](https://homepage.hanta.indevs.in) - Docker cool UI and monitoring tool
 29. [qrcode](https://qrcode.hanta.indevs.in) - Simple QR code generator
+30. [shlink](https://shlink.hanta.indevs.in) - Link shortener with link click track enabled
 
 `Disclaimer: These are personal self-hosted applications for pown use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
