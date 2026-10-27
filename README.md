@@ -414,7 +414,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
 
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting
 - Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
-- AI Agents in Operation (Independent).
+- AI Agents in Operation (Independent).--- # In cards Soon
    - Claude
    - Codex
    - Cursor (agent)
