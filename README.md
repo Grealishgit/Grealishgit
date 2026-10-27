@@ -43,14 +43,15 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     <td align="center" valign="top" width="25%">
       <a href="https://vault.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9Gz_zryjZJocG-pNGQzML4dIdA549lpnMFxMhTT_mw&s=10" 
-         width="100%" height="100%" alt="Vault"><br>
+         width="100%" height="80%" alt="Vault"><br>
         <b>Vault</b>
       </a><br>
       <sub>Secret and password manager</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://infisical.hanta.indevs.in">
-        <img src="icons/infisical.png" width="64" height="64" alt="Infisical"><br>
+        <img src="[icons/infisical.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUywUhQSFNNA3jAV_GU9bvz1yJSCH1OgBaD-37CrNj2g&s=10)" 
+         width="100%" height="100%" alt="Infisical"><br>
         <b>Infisical</b>
       </a><br>
       <sub>Secret management and sync platform</sub>
@@ -59,7 +60,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://certmate.hanta.indevs.in">
-        <img src="icons/certmate.png" width="64" height="64" alt="CertMate"><br>
+        <img src="https://repository-images.githubusercontent.com/1007555070/b4d34c9f-3f10-43ca-b363-435528fbb279" 
+         width="100%" height="100%" alt="CertMate"><br>
         <b>CertMate</b>
       </a><br>
       <sub>SSL certificate manager</sub>
