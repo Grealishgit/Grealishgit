@@ -173,7 +173,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://webui.hanta.indevs.in">
-        <img src="icons/webui.png" width="64" height="64" alt="WebUI"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZqAvzuAFKl1hksanNOj8PvdPb1ZY8X-Pxwu9r5ts2Q&s=10"
+         width="100%" height="120" alt="WebUI"><br>
         <b>WebUI</b>
       </a><br>
       <sub>Agentic playground for AI agents</sub>
