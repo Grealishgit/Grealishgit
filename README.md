@@ -203,14 +203,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://databasement.hanta.indevs.in">
-        <img src="icons/databasement.png" width="64" height="64" alt="Databasement"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR79Ce2SuAPAcgDvArvCqob9I_h3dCOaBEMkDIMoN2R8S4cEeqJX91sA4&s=10"
+         width="100%" height="120" alt="Databasement"><br>
         <b>Databasement</b>
       </a><br>
       <sub>Database backup tool</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://noco.hanta.indevs.in">
-        <img src="icons/noco.png" width="64" height="64" alt="NocoDB"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_neIcwtywasDw6iafpoAHV3i2UPGTBweJ6FuOCcwNVwpabWPhoT1kP84&s=10"
+         width="100%" height="120" alt="NocoDB"><br>
         <b>NocoDB</b>
       </a><br>
       <sub>Data visualizer for databases</sub>
