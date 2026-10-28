@@ -188,14 +188,15 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://dockge.hanta.indevs.in">
-        <img src="icons/dockge.png" width="64" height="64" alt="Dockge"><br>
+        <img src="https://dockge.kuma.pet/screenshot.png" width="100%" height="120" alt="Dockge"><br>
         <b>Dockge</b>
       </a><br>
       <sub>Docker container manager</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://traefik.hanta.indevs.in">
-        <img src="icons/traefik.png" width="64" height="64" alt="Traefik"><br>
+        <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/webui-dashboard.png"
+         width="100%" height="120" alt="Traefik"><br>
         <b>Traefik</b>
       </a><br>
       <sub>Web traffic routing, like nginx or Caddy</sub>
