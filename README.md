@@ -149,21 +149,24 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the s
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://9router.hanta.indevs.in">
-        <img src="icons/9router.png" width="64" height="64" alt="9router"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQU8Vpm9EzKC_eQkKAc9iFHBcFluCMlodNJ_c3o3Tjw&s=10"
+         width="100%" height="120" alt="9router"><br>
         <b>9router</b>
       </a><br>
       <sub>Agentic management service</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://hermes.hanta.indevs.in">
-        <img src="icons/hermes.png" width="64" height="64" alt="Hermes"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMhr5FPWtRznkCkvsTwJS3fJmkD7hPjzBnAxV194Dn0soKwnPyyWtoCM&s=10" 
+         width="100%" height="120" alt="Hermes"><br>
         <b>Hermes</b>
       </a><br>
       <sub>Agentic AI dashboard (requires sign-in)</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://openclaw.hanta.indevs.in">
-        <img src="icons/openclaw.png" width="64" height="64" alt="OpenClaw"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTran26e3plaAdYYX9vehMBM-jQbZXnZwaKzKq728tFMQ&s=10" 
+         width="100%" height="120" alt="OpenClaw"><br>
         <b>OpenClaw</b>
       </a><br>
       <sub>Agentic control UI</sub>
