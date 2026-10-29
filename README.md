@@ -19,7 +19,7 @@
 
 # Self-hosted services
 
-My self-hosted stack, running at `*.hanta.indevs.in`. Click a card to open the service.
+My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
 
 ## Security
 
