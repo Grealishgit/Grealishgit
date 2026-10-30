@@ -294,14 +294,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://qrcode.hanta.indevs.in">
-        <img src="icons/qrcode.png" width="64" height="64" alt="QR code"><br>
+        <img src="https://play-lh.googleusercontent.com/NZOpuwiQR1KSxfsulhzTfW11w8edW_tVNhPnSd9oMxhllfLmDWFIamcUC7zmTuQdHHpwv0Rmeb8E_TGCclIH-g" 
+         width="100%" height="120" alt="QR code"><br>
         <b>QR code</b>
       </a><br>
       <sub>Simple QR code generator</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://shlink.hanta.indevs.in">
-        <img src="icons/shlink.png" width="64" height="64" alt="Shlink"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14FDfkiVogHRYVrchr34Kb3YWplnN1LzHdSrHBBbyyFYDPe13ZtBPIQ7s&s=10" 
+         width="100%" height="120" alt="Shlink"><br>
         <b>Shlink</b>
       </a><br>
       <sub>Link shortener with click tracking</sub>
