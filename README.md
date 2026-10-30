@@ -278,14 +278,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://n8n.hanta.indevs.in">
-        <img src="icons/n8n.png" width="64" height="64" alt="n8n"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasqcSMZSeQHi3_gZAHvPJpmSWjSsczanSo5bHtKEx2Q&s=10" 
+         width="100%" height="120" alt="n8n"><br>
         <b>n8n</b>
       </a><br>
       <sub>Workflow automation tool</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://ntfy.hanta.indevs.in">
-        <img src="icons/ntfy.png" width="64" height="64" alt="ntfy"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh21cmSmQV39I1lsk9ODnFb9NCtO53-g6MvoZcsdnIj-_gCF4FCDhEoKFL&s=10"
+         width="100%" height="120" alt="ntfy"><br>
         <b>ntfy</b>
       </a><br>
       <sub>Real-time notifications for web and mobile</sub>
