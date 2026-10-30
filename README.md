@@ -307,7 +307,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
   </tr>
 </table>
 
-`Disclaimer: These are personal self-hosted applications for pown use only` <br>
+`Disclaimer: These are personal self-hosted applications for personal use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
   
 ###  Grab My Socials Here:
