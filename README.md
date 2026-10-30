@@ -242,14 +242,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://downtify.hanta.indevs.in">
-        <img src="icons/downtify.png" width="64" height="64" alt="Downtify"><br>
+        <img src="https://repository-images.githubusercontent.com/927689692/89e8d9f2-a09a-4ff4-ac00-a76c24f0d4af"
+         width="100%" height="120" alt="Downtify"><br>
         <b>Downtify</b>
       </a><br>
       <sub>Music media, like Spotify</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://docspell.hanta.indevs.in">
-        <img src="icons/docspell.png" width="64" height="64" alt="Docspell"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFgli_c9NrIkYA0PvpbKIxHOSg0sl3ychJ1yKK78Ezg&s=10"
+         width="100%" height="120" alt="Docspell"><br>
         <b>Docspell</b>
       </a><br>
       <sub>Document manager</sub>
