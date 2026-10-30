@@ -260,7 +260,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://file-browser.hanta.indevs.in">
-        <img src="icons/file-browser.png" width="64" height="64" alt="File Browser"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr34BumVzxhvitI9HKD76UuujWQzB8m6odF3gPrjPB8Q&s=10" 
+         width="100%" height="120" alt="File Browser"><br>
         <b>File Browser</b>
       </a><br>
       <sub>Web-based file manager for server directories</sub>
