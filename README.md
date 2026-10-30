@@ -226,14 +226,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://immich.hanta.indevs.in">
-        <img src="icons/immich.png" width="64" height="64" alt="Immich"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLrmbrZEKuMRBn7A760E5bwe_RoI5euJ8F_bnlRkbDg&s=10"
+         width="100%" height="120" alt="Immich"><br>
         <b>Immich</b>
       </a><br>
       <sub>Self-hosted photo and video backup</sub>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://jellyfin.hanta.indevs.in">
-        <img src="icons/jellyfin.png" width="64" height="64" alt="Jellyfin"><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq20NP62gKS6womn8WMSAC3dTKNEgtVcPrqOL0zGIOE2Ja3ZD5mfRWPQzM&s=10"
+         width="100%" height="120" alt="Jellyfin"><br>
         <b>Jellyfin</b>
       </a><br>
       <sub>Open-source media streaming server</sub>
