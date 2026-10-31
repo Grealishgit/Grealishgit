@@ -17,9 +17,9 @@
    
  > Also worth a shot of checking are my self hosted services listed here:
 
-# Self-hosted services
+# Self-hosted Services
 
-My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the service.
+My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any service.
 
 ## Security
 
