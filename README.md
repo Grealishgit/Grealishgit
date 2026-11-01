@@ -329,6 +329,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
       </a><br>
       <sub>Simple QR code generator</sub>
     </td>
+   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://shlink.hanta.indevs.in">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14FDfkiVogHRYVrchr34Kb3YWplnN1LzHdSrHBBbyyFYDPe13ZtBPIQ7s&s=10" 
@@ -337,6 +338,11 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
       </a><br>
       <sub>Link shortener with click tracking</sub>
     </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td> 
+    </tr>
+    
   </tr>
 </table>
 
