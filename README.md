@@ -269,12 +269,19 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
    <td align="center" valign="top" width="25%">
       <a href="http://100.71.146.102:5055">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_w2pKiE8_YXj03e1Eqomw4o8nbFUZXXal8Q7Y3JrCA&s=10"
-         width="100%" height="120" alt="Jellyfin"><br>
+         width="100%" height="120" alt="Seerr"><br>
         <b>Seerr</b>
       </a><br>
       <sub>Open-source media agregation server</sub>
     </td>
-    <td width="25%"></td>
+     <td align="center" valign="top" width="25%">
+      <a href="http://100.71.146.102:5055">
+        <img src="https://forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com/original/2X/4/492692ac093a9d2d575a5d4253991ff1c77aeb76.png"
+         width="100%" height="120" alt="Sonarr"><br>
+        <b>Sonarr</b>
+      </a><br>
+      <sub>Open-source series agregation server</sub>
+    </td>
     <td width="25%"></td>
   </tr>
 </table>
