@@ -270,19 +270,26 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
       <a href="http://100.71.146.102:5055">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_w2pKiE8_YXj03e1Eqomw4o8nbFUZXXal8Q7Y3JrCA&s=10"
          width="100%" height="120" alt="Seerr"><br>
-        <b>Seerr</b>
+        <b>Seerr-(HomeLab)</b>
       </a><br>
       <sub>Open-source media agregation server</sub>
     </td>
      <td align="center" valign="top" width="25%">
-      <a href="http://100.71.146.102:5055">
+      <a href="http://100.71.146.102:8989">
         <img src="https://forums-sonarr-tv.s3.dualstack.us-east-1.amazonaws.com/original/2X/4/492692ac093a9d2d575a5d4253991ff1c77aeb76.png"
          width="100%" height="120" alt="Sonarr"><br>
-        <b>Sonarr</b>
+        <b>Sonarr-(HomeLab)</b>
       </a><br>
       <sub>Open-source series agregation server</sub>
     </td>
-    <td width="25%"></td>
+    <td align="center" valign="top" width="25%">
+      <a href="http://100.71.146.102:7878">
+        <img src="https://www.myqnap.org/wp-content/uploads/radarr.png"
+         width="100%" height="120" alt="Radarr"><br>
+        <b>Radarr-(HomeLab)</b>
+      </a><br>
+      <sub>Open-source series agregation server</sub>
+    </td>
   </tr>
 </table>
 
