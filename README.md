@@ -314,6 +314,14 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
       <sub>Real-time notifications for web and mobile</sub>
     </td>
     <td align="center" valign="top" width="25%">
+      <a href="https://gotify.hantardev.tech/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUut3KlJU2LlhFtFxENJCHS9QxeVaaw3B8eEBdmYEYw&s"
+         width="100%" height="120" alt="gotify"><br>
+        <b>gotify</b>
+      </a><br>
+      <sub>Real-time notifications for web and mobile</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
       <a href="https://qrcode.hanta.indevs.in">
         <img src="https://play-lh.googleusercontent.com/NZOpuwiQR1KSxfsulhzTfW11w8edW_tVNhPnSd9oMxhllfLmDWFIamcUC7zmTuQdHHpwv0Rmeb8E_TGCclIH-g" 
          width="100%" height="120" alt="QR code"><br>
