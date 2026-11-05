@@ -470,33 +470,284 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 ##  Homelab (in-progress) | Server-Self-Hosting (in-progress) | Cloud Hosting (in-progress)
 - Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
-- AI Agents in Operation (Independent).--- # In cards Soon
-   - Claude
-   - Codex
-   - Cursor (agent)
-   - Copilot
-   - Agy
-   - Gemini
-   - Pool
-   - Kimi
-   - Kiro
-   - Qwen
-   - Opencode
-   - Openclaw
-   - Hermes Agent
-   - Pi
-   - Vibe
-   - Crush
-- FCC (Free Claude Code) models
-   - fcc-claude
-   - fcc-codex
-   - fcc-pi
-   - fcc-opencode
-   - fcc-cline
-   - fcc-hermes
-   - fcc-grok
-   - fcc-muse
-   - fcc-aider
+# AI Agents in Operation (Independent)
+
+> Independent agents and tools I run day to day. Cards are marked **Soon** until each one gets its own write-up.
+> Swap each placeholder image for a real logo or screenshot (see the comment above each `<img>`).
+
+## Agents
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/claude.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Claude" width="96" height="96" alt="Claude"/>
+      <br/><br/>
+      <b>Claude</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/codex.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Codex" width="96" height="96" alt="Codex"/>
+      <br/><br/>
+      <b>Codex</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/cursor.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Cursor" width="96" height="96" alt="Cursor (agent)"/>
+      <br/><br/>
+      <b>Cursor (agent)</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/copilot.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Copilot" width="96" height="96" alt="Copilot"/>
+      <br/><br/>
+      <b>Copilot</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/agy.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Agy" width="96" height="96" alt="Agy"/>
+      <br/><br/>
+      <b>Agy</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/gemini.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Gemini" width="96" height="96" alt="Gemini"/>
+      <br/><br/>
+      <b>Gemini</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/pool.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Pool" width="96" height="96" alt="Pool"/>
+      <br/><br/>
+      <b>Pool</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/kimi.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Kimi" width="96" height="96" alt="Kimi"/>
+      <br/><br/>
+      <b>Kimi</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/kiro.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Kiro" width="96" height="96" alt="Kiro"/>
+      <br/><br/>
+      <b>Kiro</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/qwen.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Qwen" width="96" height="96" alt="Qwen"/>
+      <br/><br/>
+      <b>Qwen</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/opencode.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Opencode" width="96" height="96" alt="Opencode"/>
+      <br/><br/>
+      <b>Opencode</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/openclaw.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Openclaw" width="96" height="96" alt="Openclaw"/>
+      <br/><br/>
+      <b>Openclaw</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/hermes-agent.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Hermes+Agent" width="96" height="96" alt="Hermes Agent"/>
+      <br/><br/>
+      <b>Hermes Agent</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/pi.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Pi" width="96" height="96" alt="Pi"/>
+      <br/><br/>
+      <b>Pi</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/vibe.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Vibe" width="96" height="96" alt="Vibe"/>
+      <br/><br/>
+      <b>Vibe</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br/>
+      <!-- Replace with: assets/agents/crush.png -->
+      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Crush" width="96" height="96" alt="Crush"/>
+      <br/><br/>
+      <b>Crush</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+## FCC (Free Claude Code) Models
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-claude.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-claude" width="96" height="96" alt="fcc-claude"/>
+      <br/><br/>
+      <b>fcc-claude</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-codex.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-codex" width="96" height="96" alt="fcc-codex"/>
+      <br/><br/>
+      <b>fcc-codex</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-pi.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-pi" width="96" height="96" alt="fcc-pi"/>
+      <br/><br/>
+      <b>fcc-pi</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-opencode.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-opencode" width="96" height="96" alt="fcc-opencode"/>
+      <br/><br/>
+      <b>fcc-opencode</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-cline.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-cline" width="96" height="96" alt="fcc-cline"/>
+      <br/><br/>
+      <b>fcc-cline</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-hermes.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-hermes" width="96" height="96" alt="fcc-hermes"/>
+      <br/><br/>
+      <b>fcc-hermes</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-grok.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-grok" width="96" height="96" alt="fcc-grok"/>
+      <br/><br/>
+      <b>fcc-grok</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-muse.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-muse" width="96" height="96" alt="fcc-muse"/>
+      <br/><br/>
+      <b>fcc-muse</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <!-- Replace with: assets/agents/fcc-aider.png -->
+      <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-aider" width="96" height="96" alt="fcc-aider"/>
+      <br/><br/>
+      <b>fcc-aider</b>
+      <br/>
+      <img src="https://img.shields.io/badge/status-soon-orange?style=flat-square" alt="Soon"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - ## Datadog monitoring across personal infrastructure
