@@ -647,7 +647,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/crush.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Crush" width="96" height="96" alt="Crush"/>
+      <img src="https://stuff.charm.sh/crush/charm-crush.png" width="96" height="96" alt="Crush"/>
       <br/><br/>
       <b>Crush</b>
       <br/>
