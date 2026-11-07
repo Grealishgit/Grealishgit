@@ -568,7 +568,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/kiro.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Kiro" width="96" height="96" alt="Kiro"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQnN5iuVo4670zRvmW4s1xH8fIy7icpQJ64LWuO3S_g&s=10"
+       width="96" height="96" alt="Kiro"/>
       <br/><br/>
       <b>Kiro</b>
       <br/>
@@ -578,7 +579,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/qwen.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Qwen" width="96" height="96" alt="Qwen"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69debVbERFm8Nr2JkEomqkyRgJdZFH7NrT-IuiVvXZw&s=10"
+       width="96" height="96" alt="Qwen"/>
       <br/><br/>
       <b>Qwen</b>
       <br/>
@@ -588,7 +590,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/opencode.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Opencode" width="96" height="96" alt="Opencode"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKIPft_dXLDbZT6bzMymqr9eDFYUMDmhBWXcq4MmfgeHwxp7sQ7tCUuM&s=10"
+       width="96" height="96" alt="Opencode"/>
       <br/><br/>
       <b>Opencode</b>
       <br/>
