@@ -482,7 +482,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/claude.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Claude" width="96" height="96" alt="Claude"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77QeoIav9_QU0-Iz4Jldedn0LfBYgERR3ElWP1MPSaA&s=10"
+       width="96" height="96" alt="Claude"/>
       <br/><br/>
       <b>Claude</b>
       <br/>
@@ -492,7 +493,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/codex.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Codex" width="96" height="96" alt="Codex"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbFwHd0AZK42J_Eh4_5qH4CO-OgrqB_QYAJBMFEaFMA&s"
+       width="96" height="96" alt="Codex"/>
       <br/><br/>
       <b>Codex</b>
       <br/>
@@ -502,7 +504,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/cursor.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Cursor" width="96" height="96" alt="Cursor (agent)"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzob2iD9z8C3XcMU2cTX3wmVPsBTfgxd4GY2mo0Q_kPA&s=10"
+       width="96" height="96" alt="Cursor (agent)"/>
       <br/><br/>
       <b>Cursor (agent)</b>
       <br/>
@@ -512,7 +515,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/copilot.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Copilot" width="96" height="96" alt="Copilot"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KmmbuNmd2eO3Pq2f85IQmID-bmdAlIORywoDJC-erw&s=10"
+       width="96" height="96" alt="Copilot"/>
       <br/><br/>
       <b>Copilot</b>
       <br/>
