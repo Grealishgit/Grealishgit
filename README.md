@@ -614,7 +614,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/hermes-agent.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Hermes+Agent" width="96" height="96" alt="Hermes Agent"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qR9wwvNSJkLPMOuz4iW_YKqJQF1fsNZe5CV1JXkiSw&s=10"
+       width="96" height="96" alt="Hermes Agent"/>
       <br/><br/>
       <b>Hermes Agent</b>
       <br/>
@@ -624,7 +625,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/pi.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Pi" width="96" height="96" alt="Pi"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-coding-agent.png"
+       width="96" height="96" alt="Pi"/>
       <br/><br/>
       <b>Pi</b>
       <br/>
@@ -634,7 +636,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/vibe.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Vibe" width="96" height="96" alt="Vibe"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXJFy0META_Tq7D12YChLDm-PK0b1NEnJNu_vVhFDmVfM---YBSIMf0&s=10" 
+       width="96" height="96" alt="Vibe"/>
       <br/><br/>
       <b>Vibe</b>
       <br/>
