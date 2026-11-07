@@ -528,7 +528,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/agy.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Agy" width="96" height="96" alt="Agy"/>
+      <img src="https://miro.medium.com/1*Ypy3BnIpxE0PAAwyMzkENQ.png" width="96" height="96" alt="Agy"/>
       <br/><br/>
       <b>Agy</b>
       <br/>
@@ -538,7 +538,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/gemini.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Gemini" width="96" height="96" alt="Gemini"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WzDoMVP6aHqKL4oUU0btCqR6qG0jA7YC2dhkwV0g8w&s=10"
+       width="96" height="96" alt="Gemini"/>
       <br/><br/>
       <b>Gemini</b>
       <br/>
@@ -548,7 +549,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/pool.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Pool" width="96" height="96" alt="Pool"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCa8nrcZGAdfwAyQe2wF0ytrFH-SSYsEDWtot7-ye9g&s=10"
+       width="96" height="96" alt="Pool"/>
       <br/><br/>
       <b>Pool</b>
       <br/>
@@ -558,7 +560,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/kimi.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Kimi" width="96" height="96" alt="Kimi"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SrSRuFfe3TuaK6Q574xL6etKEEHjuEK8yPVV-GIc7w&s=10"
+       width="96" height="96" alt="Kimi"/>
       <br/><br/>
       <b>Kimi</b>
       <br/>
