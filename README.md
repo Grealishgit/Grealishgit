@@ -601,7 +601,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/openclaw.png -->
-      <img src="https://placehold.co/96x96/1f2937/ffffff?text=Openclaw" width="96" height="96" alt="Openclaw"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1Hv77jwmzvEy2d0e9bArLghUe7cNYYejzNOjdDxI6Q&s=10"
+       width="96" height="96" alt="Openclaw"/>
       <br/><br/>
       <b>Openclaw</b>
       <br/>
