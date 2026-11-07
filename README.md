@@ -366,7 +366,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   </div>
 </div>
 
-###  WakaTime Stats | CodeTime Stats | Visitors 
+                                       WakaTime Stats | CodeTime Stats | Visitors 
 <div align="center">
  
    [![wakatime](https://wakatime.com/badge/user/ce3b3a42-0f93-4af6-b051-60cf05395d09/project/adf3333b-bee6-45b5-97c8-2b9ac982c78e.svg)]
