@@ -482,10 +482,16 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 <table width="100%">
   <tr>
+    <td colspan="4">
+      <img src="assets/spacer.png" width="800" height="1" alt=""/>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/claude.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77QeoIav9_QU0-Iz4Jldedn0LfBYgERR3ElWP1MPSaA&s=10" width="80" height="80" alt="Claude"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77QeoIav9_QU0-Iz4Jldedn0LfBYgERR3ElWP1MPSaA&s=10"
+       width="80" height="80" alt="Claude"/>
       <br/><br/>
       <b>Claude</b>
       <br/>
@@ -495,7 +501,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/codex.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbFwHd0AZK42J_Eh4_5qH4CO-OgrqB_QYAJBMFEaFMA&s" width="80" height="80" alt="Codex"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbFwHd0AZK42J_Eh4_5qH4CO-OgrqB_QYAJBMFEaFMA&s"
+       width="80" height="80" alt="Codex"/>
       <br/><br/>
       <b>Codex</b>
       <br/>
@@ -505,7 +512,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/cursor.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzob2iD9z8C3XcMU2cTX3wmVPsBTfgxd4GY2mo0Q_kPA&s=10" width="80" height="80" alt="Cursor (agent)"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzob2iD9z8C3XcMU2cTX3wmVPsBTfgxd4GY2mo0Q_kPA&s=10"
+       width="80" height="80" alt="Cursor (agent)"/>
       <br/><br/>
       <b>Cursor (agent)</b>
       <br/>
@@ -515,7 +523,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/copilot.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KmmbuNmd2eO3Pq2f85IQmID-bmdAlIORywoDJC-erw&s=10" width="80" height="80" alt="Copilot"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KmmbuNmd2eO3Pq2f85IQmID-bmdAlIORywoDJC-erw&s=10"
+       width="80" height="80" alt="Copilot"/>
       <br/><br/>
       <b>Copilot</b>
       <br/>
@@ -537,7 +546,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/gemini.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WzDoMVP6aHqKL4oUU0btCqR6qG0jA7YC2dhkwV0g8w&s=10" width="80" height="80" alt="Gemini"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WzDoMVP6aHqKL4oUU0btCqR6qG0jA7YC2dhkwV0g8w&s=10"
+       width="80" height="80" alt="Gemini"/>
       <br/><br/>
       <b>Gemini</b>
       <br/>
@@ -547,7 +557,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/pool.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCa8nrcZGAdfwAyQe2wF0ytrFH-SSYsEDWtot7-ye9g&s=10" width="80" height="80" alt="Pool"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCa8nrcZGAdfwAyQe2wF0ytrFH-SSYsEDWtot7-ye9g&s=10"
+       width="80" height="80" alt="Pool"/>
       <br/><br/>
       <b>Pool</b>
       <br/>
@@ -557,7 +568,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/kimi.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SrSRuFfe3TuaK6Q574xL6etKEEHjuEK8yPVV-GIc7w&s=10" width="80" height="80" alt="Kimi"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SrSRuFfe3TuaK6Q574xL6etKEEHjuEK8yPVV-GIc7w&s=10"
+       width="80" height="80" alt="Kimi"/>
       <br/><br/>
       <b>Kimi</b>
       <br/>
@@ -569,7 +581,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/kiro.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQnN5iuVo4670zRvmW4s1xH8fIy7icpQJ64LWuO3S_g&s=10" width="80" height="80" alt="Kiro"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQnN5iuVo4670zRvmW4s1xH8fIy7icpQJ64LWuO3S_g&s=10"
+       width="80" height="80" alt="Kiro"/>
       <br/><br/>
       <b>Kiro</b>
       <br/>
@@ -579,7 +592,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/qwen.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69debVbERFm8Nr2JkEomqkyRgJdZFH7NrT-IuiVvXZw&s=10" width="80" height="80" alt="Qwen"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69debVbERFm8Nr2JkEomqkyRgJdZFH7NrT-IuiVvXZw&s=10"
+       width="80" height="80" alt="Qwen"/>
       <br/><br/>
       <b>Qwen</b>
       <br/>
@@ -589,7 +603,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/opencode.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKIPft_dXLDbZT6bzMymqr9eDFYUMDmhBWXcq4MmfgeHwxp7sQ7tCUuM&s=10" width="80" height="80" alt="Opencode"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKIPft_dXLDbZT6bzMymqr9eDFYUMDmhBWXcq4MmfgeHwxp7sQ7tCUuM&s=10"
+       width="80" height="80" alt="Opencode"/>
       <br/><br/>
       <b>Opencode</b>
       <br/>
@@ -599,7 +614,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/openclaw.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1Hv77jwmzvEy2d0e9bArLghUe7cNYYejzNOjdDxI6Q&s=10" width="80" height="80" alt="Openclaw"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1Hv77jwmzvEy2d0e9bArLghUe7cNYYejzNOjdDxI6Q&s=10"
+       width="80" height="80" alt="Openclaw"/>
       <br/><br/>
       <b>Openclaw</b>
       <br/>
@@ -611,7 +627,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/hermes-agent.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qR9wwvNSJkLPMOuz4iW_YKqJQF1fsNZe5CV1JXkiSw&s=10" width="80" height="80" alt="Hermes Agent"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qR9wwvNSJkLPMOuz4iW_YKqJQF1fsNZe5CV1JXkiSw&s=10"
+       width="80" height="80" alt="Hermes Agent"/>
       <br/><br/>
       <b>Hermes Agent</b>
       <br/>
@@ -621,7 +638,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/pi.png -->
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-coding-agent.png" width="80" height="80" alt="Pi"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-coding-agent.png"
+       width="80" height="80" alt="Pi"/>
       <br/><br/>
       <b>Pi</b>
       <br/>
@@ -631,7 +649,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     <td align="center" valign="top" width="25%">
       <br/>
       <!-- Replace with: assets/agents/vibe.png -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXJFy0META_Tq7D12YChLDm-PK0b1NEnJNu_vVhFDmVfM---YBSIMf0&s=10" width="80" height="80" alt="Vibe"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXJFy0META_Tq7D12YChLDm-PK0b1NEnJNu_vVhFDmVfM---YBSIMf0&s=10" 
+       width="80" height="80" alt="Vibe"/>
       <br/><br/>
       <b>Vibe</b>
       <br/>
@@ -658,6 +677,11 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 <div align="center">
 
 <table width="100%">
+  <tr>
+    <td colspan="3">
+      <img src="assets/spacer.png" width="800" height="1" alt=""/>
+    </td>
+  </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <br/>
@@ -757,6 +781,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 </table>
 
 </div>
+
 - Secondary Azure VPS for redundancy/contingency
 - Cloudflare Tunnels + Tailscale for secure remote access
 - ## Datadog monitoring across personal infrastructure
