@@ -800,8 +800,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 ##  GitHub Trophies
 
 ## Tools and Frameworks
-| Domain         | Tools & Frameworks                      |
-|----------------|-----------------------------------------|
+| Domain       | Tools & Frameworks                      |
+|--------------|-----------------------------------------|
 | Frontend     | React, React Native, Tailwind CSS |
 | Backend      | Node.js, Express, MongoDB       |
 | Mobile Dev   | React Native, Expo, NativeWind                      |
