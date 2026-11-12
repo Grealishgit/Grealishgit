@@ -478,7 +478,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 ## Agents
 
-<table style="width:100%; table-layout:fixed;">
+<div align="center" style="width:100%;">
+<table width="100%" style="table-layout:fixed;">
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
@@ -657,7 +658,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
   </tr>
 </table>
-
+</div>
 ## FCC (Free Claude Code) Models
 
 <table>
