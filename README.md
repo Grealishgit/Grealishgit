@@ -830,7 +830,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 - I enjoy playing Euro Truck Simulator
 - Awaiting GTA VI release
 - Manchester United Fan
--  Am a learned guy!😂
+-  Am a learned guy and i just do stuff!😂
 
 ## ☕ Support Me
 <p align="center">
