@@ -478,7 +478,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 ## Agents
 
-<table>
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
