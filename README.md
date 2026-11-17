@@ -5,7 +5,7 @@
 
 ##  Overview
 
- > Hey there, I'm Eugene Khanda, a web developer and Mobile App Developer with hands-on backend experience. I'm driven by a passion for building software that turns big ideas into practical solutions that actually make a difference. <br>
+ > Hey there, I'm Eugene Khanda, a web developer and Mobile App Developer with hands-on backend experience. I'm driven by a passion for building software that turns big ideas into practical solutions that actually make a difference in tech. <br>
 
  > I’m currently working on **A couple of projects including Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
  
