@@ -140,7 +140,18 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
       </a><br>
       <sub>Network analysis and monitoring</sub>
     </td>
+   
   </tr>
+ <tr>
+  <td align="center" valign="top" width="25%">
+      <a href="https://nginxui.hanta.indevs.in">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYiB02S2cFOp0uLl_Mme77IkUB4QHgjWS-7Ot2lCnqg&s=10"
+         width="100%" height="100%" alt="Beszel"><br>
+        <b>Nginx UI</b>
+      </a><br>
+      <sub>Nginx UI For Reverse proxy</sub>
+    </td>
+ </tr>
 </table>
 
 ## AI & agents
