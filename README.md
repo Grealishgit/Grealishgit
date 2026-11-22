@@ -18,7 +18,7 @@
  > Also worth a shot of checking are my self hosted services listed here:
 
 ###
-                               Self-hosted Services 
+                                          Self-hosted Services (DevOps | Cloud Services)
 
 My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any service.
 
@@ -392,7 +392,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 ###
 
-                                                            My Top Skills 👇
+                                                        My Top Skills 👇
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,heroku,js,mongodb,nextjs,nodejs" />
@@ -406,7 +406,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 </p>
 
 ###
-                                                              General Tech Stack
+                                                       General Tech Stack
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
