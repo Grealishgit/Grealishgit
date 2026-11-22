@@ -377,8 +377,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
  <div align="center">
   </div>
 </div>
-
-                                       WakaTime Stats | CodeTime Stats | Visitors 
+###
+                                              WakaTime Stats | CodeTime Stats | Visitors 
 <div align="center">
  
    [![wakatime](https://wakatime.com/badge/user/ce3b3a42-0f93-4af6-b051-60cf05395d09/project/adf3333b-bee6-45b5-97c8-2b9ac982c78e.svg)]
@@ -403,7 +403,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   </a>
 </p>
 
-# General Tech Stack:
+###
+                                                   General Tech Stack
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
