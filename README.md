@@ -863,9 +863,9 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 
 ##  Did You Know?
 - I enjoy playing Euro Truck Simulator
-- Awaiting GTA VI release (19 Nov, 2026) - Released, no console😂 watching streamers!
+- Awaiting GTA VI release (19 Nov, 2026) - Released, no console 😂 watching streamers!
 - Manchester United Fan - GGMU
--  Am a learned guy and i just do stuff!😂
+- I'm a self learned guy and i just learn and do stuff!😂
 
 ## ☕ Support Me
 <p align="center">
