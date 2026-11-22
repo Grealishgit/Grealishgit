@@ -862,7 +862,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##  Did You Know?
-- I enjoy playing Euro Truck Simulator
+- I enjoy playing Euro Truck Simulator - Currently no PC😂
 - Awaiting GTA VI release (19 Nov, 2026) - Released, no console 😂 watching streamers!
 - Manchester United Fan - GGMU
 - I'm a self learned guy and i just learn and do stuff!😂
