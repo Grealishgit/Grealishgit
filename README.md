@@ -360,7 +360,8 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 `Disclaimer: These are personal self-hosted applications for personal use only` <br>
    `Are you in Need of testing, Exploring or Using any of the above services or tools, request credentials through my email, i will be glad to provide.`
   
-###  Grab My Socials Here:
+###  
+                                                     Grab My Socials Here 👇👇
 <div align="center">
   <a href="https://instagram.com/Wizardhunter1" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
@@ -385,8 +386,9 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35819">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Grealishgit.Grealishgit&"  />
-
 </div>
+
+###
 
                                                             My Top Skills 👇
 <p align="center">
