@@ -5,9 +5,9 @@
 
 ##  Overview
 
- > Hey there, I'm Eugene, a Web developer and Mobile App Developer with hands-on backend experience. I'm driven by a passion for building software that turns big ideas into practical solutions that actually make a difference. <br>
+ > Hello 👋, I'm Eugene, a Web developer and Mobile App Developer with hands-on backend experience. I'm driven by a passion for building software that turns big ideas into practical solutions that actually make a difference. <br>
 
- > I’m currently working on **A couple of projects including Tickon, Self Hosting, DevOps and Cloud Deployment**  <br>
+ > I’m currently working on **ERP Systems, Self Hosting, DevOps and Cloud Deployment**  <br>
  
  > Current Focus *DevOps*. *Agentic AI*,*Open Sorce*, *React*,*React-Native* or *Node.js*<br>
  > Checkout some my published sites here:
