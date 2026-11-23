@@ -508,7 +508,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/claude.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77QeoIav9_QU0-Iz4Jldedn0LfBYgERR3ElWP1MPSaA&s=10"
        width="80" height="80" alt="Claude"/>
       <br/><br/>
@@ -519,7 +518,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/codex.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbFwHd0AZK42J_Eh4_5qH4CO-OgrqB_QYAJBMFEaFMA&s"
        width="80" height="80" alt="Codex"/>
       <br/><br/>
@@ -530,7 +528,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/cursor.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzob2iD9z8C3XcMU2cTX3wmVPsBTfgxd4GY2mo0Q_kPA&s=10"
        width="80" height="80" alt="Cursor (agent)"/>
       <br/><br/>
@@ -541,7 +538,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/copilot.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KmmbuNmd2eO3Pq2f85IQmID-bmdAlIORywoDJC-erw&s=10"
        width="80" height="80" alt="Copilot"/>
       <br/><br/>
@@ -553,8 +549,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   </tr>
   <tr>
     <td align="center" valign="top" width="25%">
-      <br/>
-      <!-- Replace with: assets/agents/agy.png -->
+      <br/>>
       <img src="https://miro.medium.com/1*Ypy3BnIpxE0PAAwyMzkENQ.png" width="80" height="80" alt="Agy"/>
       <br/><br/>
       <b>Agy</b>
@@ -564,7 +559,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/gemini.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WzDoMVP6aHqKL4oUU0btCqR6qG0jA7YC2dhkwV0g8w&s=10"
        width="80" height="80" alt="Gemini"/>
       <br/><br/>
@@ -575,7 +569,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/pool.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCa8nrcZGAdfwAyQe2wF0ytrFH-SSYsEDWtot7-ye9g&s=10"
        width="80" height="80" alt="Pool"/>
       <br/><br/>
@@ -586,7 +579,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/kimi.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SrSRuFfe3TuaK6Q574xL6etKEEHjuEK8yPVV-GIc7w&s=10"
        width="80" height="80" alt="Kimi"/>
       <br/><br/>
@@ -599,7 +591,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/kiro.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQnN5iuVo4670zRvmW4s1xH8fIy7icpQJ64LWuO3S_g&s=10"
        width="80" height="80" alt="Kiro"/>
       <br/><br/>
@@ -610,7 +601,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/qwen.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69debVbERFm8Nr2JkEomqkyRgJdZFH7NrT-IuiVvXZw&s=10"
        width="80" height="80" alt="Qwen"/>
       <br/><br/>
@@ -621,7 +611,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/opencode.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKIPft_dXLDbZT6bzMymqr9eDFYUMDmhBWXcq4MmfgeHwxp7sQ7tCUuM&s=10"
        width="80" height="80" alt="Opencode"/>
       <br/><br/>
@@ -632,7 +621,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/openclaw.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1Hv77jwmzvEy2d0e9bArLghUe7cNYYejzNOjdDxI6Q&s=10"
        width="80" height="80" alt="Openclaw"/>
       <br/><br/>
@@ -645,7 +633,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/hermes-agent.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qR9wwvNSJkLPMOuz4iW_YKqJQF1fsNZe5CV1JXkiSw&s=10"
        width="80" height="80" alt="Hermes Agent"/>
       <br/><br/>
@@ -656,7 +643,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/pi.png -->
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-coding-agent.png"
        width="80" height="80" alt="Pi"/>
       <br/><br/>
@@ -667,7 +653,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/vibe.png -->
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXJFy0META_Tq7D12YChLDm-PK0b1NEnJNu_vVhFDmVfM---YBSIMf0&s=10" 
        width="80" height="80" alt="Vibe"/>
       <br/><br/>
@@ -678,7 +663,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <!-- Replace with: assets/agents/crush.png -->
       <img src="https://stuff.charm.sh/crush/charm-crush.png" width="80" height="80" alt="Crush"/>
       <br/><br/>
       <b>Crush</b>
@@ -704,7 +688,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-claude.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-claude" width="80" height="80" alt="fcc-claude"/>
       <br/><br/>
       <b>fcc-claude</b>
@@ -714,7 +697,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-codex.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-codex" width="80" height="80" alt="fcc-codex"/>
       <br/><br/>
       <b>fcc-codex</b>
@@ -724,7 +706,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-pi.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-pi" width="80" height="80" alt="fcc-pi"/>
       <br/><br/>
       <b>fcc-pi</b>
@@ -736,7 +717,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-opencode.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-opencode" width="80" height="80" alt="fcc-opencode"/>
       <br/><br/>
       <b>fcc-opencode</b>
@@ -778,7 +758,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-muse.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-muse" width="80" height="80" alt="fcc-muse"/>
       <br/><br/>
       <b>fcc-muse</b>
@@ -788,7 +767,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-aider.png -->
+   
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-aider" width="80" height="80" alt="fcc-aider"/>
       <br/><br/>
       <b>fcc-aider</b>
