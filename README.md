@@ -10,11 +10,8 @@
  > I’m currently working on **ERP Systems, Self Hosting, DevOps and Cloud Deployment**  <br>
  
  > Current Focus *DevOps*. *Agentic AI*,*Open Sorce*, *React*,*React-Native* or *Node.js*<br>
- > Checkout some my published sites here:
-   <a href='https://portfolio.hantardev.tech'>Portfolio</a>
-   and check some of my Mobile applications builds here:
-
-                <a href='https://updates.hantardev.tech'>Mini App Store</a>
+ > Checkout some my published sites here: <a href='https://portfolio.hantardev.tech'>Portfolio</a>
+   and check some of my Mobile applications builds here:👉 <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
  > Also worth a shot of checking are my self hosted services listed here:
 
