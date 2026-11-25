@@ -723,7 +723,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-cline.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-cline" width="80" height="80" alt="fcc-cline"/>
       <br/><br/>
       <b>fcc-cline</b>
@@ -733,7 +732,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-hermes.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-hermes" width="80" height="80" alt="fcc-hermes"/>
       <br/><br/>
       <b>fcc-hermes</b>
@@ -745,7 +743,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
   <tr>
     <td align="center" valign="top" width="33%">
       <br/>
-      <!-- Replace with: assets/agents/fcc-grok.png -->
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-grok" width="80" height="80" alt="fcc-grok"/>
       <br/><br/>
       <b>fcc-grok</b>
@@ -764,7 +761,6 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
     </td>
     <td align="center" valign="top" width="33%">
       <br/>
-   
       <img src="https://placehold.co/96x96/4c1d95/ffffff?text=fcc-aider" width="80" height="80" alt="fcc-aider"/>
       <br/><br/>
       <b>fcc-aider</b>
