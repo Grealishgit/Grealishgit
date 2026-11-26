@@ -9,7 +9,7 @@
 
  > I’m currently working on **ERP Systems, Self Hosting, DevOps and Cloud Deployment**  <br>
  
- > Current Focus *DevOps*. *Agentic AI*,*Open Sorce*, *React*,*React-Native* or *Node.js*<br>
+ > Current Focus *DevOps*. *Agentic AI*,*Open Source*, *React*,*React-Native* or *Node.js*<br>
  > Checkout some my published sites here:👉 <a href='https://portfolio.hantardev.tech'>Portfolio</a>
    and check some of my Mobile applications builds here:👉 <a href='https://updates.hantardev.tech'>Mini App Store</a>
    
@@ -376,6 +376,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
  <div align="center">
   </div>
 </div>
+
 
 ###
                                                   WakaTime Stats | CodeTime Stats | Visitors 
