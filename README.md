@@ -490,8 +490,7 @@ My self-hosted stack, running at `*.hanta.indevs.in`. Click to open the any serv
 - Self-hosted Ubuntu VPS, running Backend Services, PM2 Services, Django apps, Redis, MongoDB, and monitoring
 # AI Agents in Operation (Independent)
 
-> Independent agents and tools I run day to day. Cards are marked **Soon** until each one gets its own write-up.
-> Swap each placeholder image for a real logo or screenshot (see the comment above each `<img>`).
+> Independent agents and tools I run day to day.
 
 ## Agents
 
